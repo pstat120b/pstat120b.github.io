@@ -1,6 +1,3 @@
----
-title: ""
----
 
 ![](Images/Logos_Icons/120B_logo.png){style="float:left;padding: 0 30px 0 10px;" width="230"}
 
