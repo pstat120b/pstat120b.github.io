@@ -13,4 +13,4 @@ Welcome to the course site for the Summer Session A iteration of PSTAT 120B: Mat
 
 \
 
-<a href="https://pstat120a.github.io" target="_blank"><button type="button" class="btn btn-outline-primary">Click Here</button></a> to access the course site for the iteration of PSTAT 120A I taught a few years back.
+<a href="https://pstat120a.github.io" target="_blank"><button type="button" class="btn btn-outline-primary">Click Here</button></a> to access the course site for the iteration of PSTAT 120A I taught a few years back (Summer 2022).
