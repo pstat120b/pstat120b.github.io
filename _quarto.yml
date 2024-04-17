@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "PSTAT 120B"
+  sidebar:
+    style: "docked"
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: Pages/policies.qmd
+        text: Syllabus/Policies
+      - href: Pages/schedule.qmd
+        text: Course Schedule/Calendar
+      - href: Pages/course_staff.qmd
+        text: Course Staff
+    logo: "Images/Logos_Icons/120b_logo.svg"
+    title: "PSTAT 120B: Summer Session A, 2024"
+  page-footer: "Site designed by Ethan P. Marzban using Quarto; ©2024"
+
+format:
+  html:
+    theme: 
+      light: [spacelab, theme.scss]
+      dark: [cyborg, theme.scss]
+    css: styles.css
+    toc: true
+
+
+

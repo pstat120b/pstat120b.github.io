@@ -1,0 +1,37 @@
+---
+title: "PSTAT 120B: Mathematical Statistics, I"
+subtitle: "Course Staff and Office Hours"
+author:
+  - name: "Ethan Marzban"
+    affiliations:
+      - name: "Summer Session A, 2024"
+author-title: "Instructor"
+affiliation-title: "Quarter"
+format: html
+---
+
+::: panel-tabset
+## Instructor
+
+[**INSTRUCTOR:** Ethan P. Marzban (He/Him)]{style="font-size:30px"}
+
+![](../Images/Profiles/Ethan.jpg){style="float:right;padding: 0 0 0 10px;" width="200"}
+
+Hello! My name is **Ethan P. Marzban** (he/him), and I'm currently a PhD student in the Department of Statistics here at UCSB. My research interests span a variety of topics, including mathematical statistics, Bayesian statistics, and Stats/Data Science Education. In my free time, I enjoy playing the piano, drinking boba, and talking about cats. I'm super excited to be your instructor this quarter!
+
+| Office Hours | Location                                                                                                                    |
+|------------------------------------------|------------------------------|
+| TBD | Zoom |
+| TBD | TBD  |
+
+## Teaching Assistants
+
+|                                          |           |                                                             |                                                                              |
+|------------------|------------|------------------|---------------------------|
+|                                          | **Name**  | **Sections**                                                | **OH**                                                    |
+| ![](../Images/Profiles/placeholder2.png) | TBD   | 2 - 2:50 pm (PHELPS 1518) <br / > 3 - 3:50 pm (PHELPS 1518) | TBD |                                                 |
+| ![](../Images/Profiles/placeholder2.png) | TBD | 4 - 4:50 pm (PHELPS 1517) <br / > 5 - 5:50 pm (PHELPS 1513) | TBD |
+
+: {tbl-colwidths="\[10,20,30,40\]"}
+
+:::

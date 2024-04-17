@@ -1,0 +1,13 @@
+---
+title: "PSTAT 120B: Mathematical Statistics, I"
+subtitle: "Course Schedule and Calendar"
+author:
+  - name: "Ethan Marzban"
+    affiliations:
+      - name: "Summer Session A, 2024"
+author-title: "Instructor"
+affiliation-title: "Quarter"
+format: html
+---
+
+Please check back soon for more updates.
