@@ -1,8 +1,10 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "PSTAT 120B"
+  favicon: "Images/Logos_Icons/120b_logo.svg"
   sidebar:
     style: "docked"
     contents:
