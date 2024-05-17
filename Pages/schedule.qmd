@@ -19,13 +19,6 @@ format: html
 _**This page will be updated as we progress through the quarter; please check back regularly for updates!**_
 :::
 
-
-:::{.callout-tip}
-## **Note**
-
-Please try to complete the readings before coming to the specified lecture/starting the specified lab.
-:::
-
 :::{.callout-note}
 ## **Emoji Meanings**
 -   🧑‍🏫 = Lecture
@@ -51,7 +44,7 @@ temp_sheet %>%
   mutate(Date = as.Date(Date)) %>%
   gt() %>%
   fmt_date(Date, date_style = 31) %>%
-  sub_missing(columns = c(Week, `Textbook Sections`, Topic, `Lecture Materials`, `Section Materials`), missing_text = "") %>%
+  sub_missing(columns = c(Week, `Textbook Sections`, Topic, `Corresponding Slide Deck`, `Section Materials / Things Due`), missing_text = "") %>%
   tab_style(
     style = cell_borders(
       sides = "right",
@@ -59,7 +52,7 @@ temp_sheet %>%
       style = "solid"
     ),
     locations = cells_body(
-      columns = c(Date, Topic, `Textbook Sections`, `Lecture Materials`, `Section Materials`)
+      columns = c(Date, Topic, `Textbook Sections`, `Corresponding Slide Deck`, `Section Materials / Things Due`)
     )
   ) %>%
   cols_align(
@@ -72,22 +65,22 @@ temp_sheet %>%
   ) %>%
   cols_align(
     align = "left", 
-    columns = c(`Lecture Materials`)
+    columns = c(`Corresponding Slide Deck`)
   ) %>%
   cols_align(
     align = "left", 
-    columns = c(`Section Materials`)
+    columns = c(`Section Materials / Things Due`)
   ) %>%
   fmt_markdown(
-    columns = c(Week, `Textbook Sections`, Topic, `Lecture Materials`, `Section Materials`)
+    columns = c(Week, `Textbook Sections`, Topic, `Corresponding Slide Deck`, `Section Materials / Things Due`)
   ) %>%
   cols_width(
     Week ~ pct(7),
     Date ~ pct(13), 
-    `Textbook Sections` ~ pct(25),
+    `Textbook Sections` ~ pct(20),
     Topic ~ pct(30),
-    `Lecture Materials` ~ pct(13),
-    `Section Materials` ~ pct(12)
+    `Corresponding Slide Deck` ~ pct(18),
+    `Section Materials / Things Due` ~ pct(12)
   ) %>%
   cols_label_with(fn = function(x) {
       janitor::make_clean_names(x, case = "title") %>%
@@ -98,3 +91,10 @@ temp_sheet %>%
   tab_options(table.font.size = 16) %>%
   opt_row_striping()
 ```
+
+### Some More Information
+
+-   Midterm exams take place on Wednesdays (twice throughout the quarter, on the dates listed in the calendar above).
+-   Homework assignments are due on Wednesdays in non-exam weeks, and on Tuesdays in exam weeks.
+-   Quizzes take place **synchronously** and **in-person**, during the first 20 minutes of Thursday Discussion Sections (on the dates outlined in the calendar above).
+-   I recommend reading the corresponding Textbook sections _before_ coming to lecture.
