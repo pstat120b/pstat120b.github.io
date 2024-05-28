@@ -10,12 +10,12 @@ affiliation-title: "Quarter"
 format: html
 ---
 
-Welcome to PSTAT 120B! I am very excited to be your instructor this quarter. Our journey together will take us through the wonders of mathematical statistics, which seeks to form a logically sound framework to discuss more advanced statistical topics. Looking forward to a great quarter with y’all! -- Ethan
+Welcome to PSTAT 120B! I am very excited to be your instructor this quarter. Our journey together will take us through the wonders of mathematical statistics, which seeks to form a logically and rigorously sound framework to discuss more advanced statistical topics. Looking forward to a great quarter with y’all! -- Ethan
 
 :::{.callout-note}
 ## **Lecture Information**
 
-M, T, W, R;	12:30 - 1:35 pm, in Buchanan Hall, 1930  (Classroom subject to change, pending approval)
+M, T, W, R;	12:30 - 1:35 pm, in ILP 1302
 :::
 
 
@@ -128,7 +128,7 @@ Though we will not be tracking Section attendance this quarter, I highly encoura
 
 ## Communication
 
-Please note that we (the course staff) request you refrain from emailing us except in case of extreme emergency (it is up to you to decide what is an ‘emergency’). Please bring all of your questions to the course staff during either Office Hours or after Lecture/Section. We also encourage you to make use of our Discord Server. 
+Please note that we (the course staff) request you refrain from emailing us except in case of extreme emergency (it is up to you to decide what is an ‘emergency’). Please bring all of your questions to the course staff during either Office Hours or after Lecture/Section. We also encourage you to make use of our <a href="https://discord.gg/PqyEQX9nMm" target="_blank">Discord</a> Server. 
 
 
 | **Topic** | **Redirect to...** |
