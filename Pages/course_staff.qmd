@@ -29,8 +29,8 @@ Hello! My name is **Ethan P. Marzban** (he/him), and I'm currently a PhD student
 |                                          |           |                                                             |                                                                              |
 |------------------|------------|------------------|---------------------------|
 |                                          | **Name**  | **Sections**                                                | **OH**                                                    |
-| ![](../Images/Profiles/placeholder2.png) | TBD   | 2 - 2:50 pm (ILP 3105) <br / > 3 - 3:50 pm (ILP 3207) | TBD |                                                 |
-| ![](../Images/Profiles/placeholder2.png) | TBD | 4 - 4:50 pm (ILP 3205) <br / > 5 - 5:50 pm (LSB 1101) | TBD |
+| ![](../Images/Profiles/placeholder2.png) | Jean (Hyuk) Choe  (he/him)  | 2 - 2:50 pm (ILP 3105) <br / > 3 - 3:50 pm (ILP 3207) | TBD |                                                 |
+| ![](../Images/Profiles/placeholder2.png) | Minwoo Park (he/him) | 4 - 4:50 pm (ILP 3205) <br / > 5 - 5:50 pm (LSB 1101) | TBD |
 
 : {tbl-colwidths="\[10,20,30,40\]"}
 
