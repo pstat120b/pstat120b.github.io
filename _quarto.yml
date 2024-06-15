@@ -16,6 +16,10 @@ website:
         text: Course Schedule/Calendar
       - href: Pages/course_staff.qmd
         text: Course Staff
+      - section: "Resources"
+        contents:
+          - href: Pages/Resources/notation.qmd
+            text: "Statistical Notation"
     logo: "Images/Logos_Icons/120b_logo.svg"
     title: "PSTAT 120B: Summer Session A, 2024"
   page-footer: "Site designed by Ethan P. Marzban using Quarto; ©2024"

@@ -1,0 +1,78 @@
+---
+title: "PSTAT 120B: Mathematical Statistics, I"
+subtitle: "Statistical Notation"
+author:
+  - name: "Ethan Marzban"
+    affiliations:
+      - name: "Summer Session A, 2024"
+author-title: "Instructor"
+affiliation-title: "Quarter"
+format: html
+---
+
+I am sympathetic to the fact that, at times, the notation used in statistics can seem a bit overwhelming. As such, I've crafted this page to outline a few key notations and symbols used in Statistics - I encourage you to refer to this page often! (Of course, please feel free to ask me directly in Lecture or Office Hours if I use notation that is unfamiliar to you.)
+
+## Greek Alphabet
+
+::: {#tbl-panel layout-ncol=2}
+
+| **Uppercase** | **Lowercase** | **Name** |
+|:-------------:|:-------------:|:--------:|
+| A | $\alpha$ | alpha |
+| B | $\beta$ | beta |
+| $\Gamma$ | $\gamma$ | gamma |
+| $\Delta$ | $\delta$ | delta |
+| E | $\varepsilon$ | epsilon |
+| Z | $\zeta$ | zeta |
+| H | $\eta$ | nu |
+| $\Theta$ | $\theta$ / $\vartheta$ | theta |
+| I | $\iota$ | iota |
+| K | $\kappa$ | kappa |
+| $\Lambda$ | $\lambda$ | lambda |
+| M | $\mu$ | mu |
+
+: First Half
+
+| **Uppercase** | **Lowercase** | **Name** |
+|:-------------:|:-------------:|:--------:|
+| N | $\nu$ | nu |
+| $\Xi$ | $\xi$ | xi |
+| O | $\omicron$ | omicron |
+| $\Pi$ | $\pi$ | pi |
+| P | $\rho$ | rho |
+| $\Sigma$ | $\sigma$ / $\varsigma$ | sigma |
+| T | $\tau$ | tau |
+| Y | $\upsilon$ | upsilon |
+| $\Phi$ | $\phi$ | phi |
+| X | $\chi$ | chi |
+| $\Psi$ | $\psi$ | psi |
+| $\Omega$ | $\omega$ | omega |
+
+: Second Half
+
+The Greek Alphabet
+:::
+
+
+### Some Common Statistical Uses
+
+-   $\mu$: often used to denote mean/expected value
+-   $\sigma$: often used to denote standard deviations
+-   $\theta$: often used as a placeholder for an arbitrary parameter
+-   $\lambda, \ \rho$: often used to denote rates
+-   $\nu$: often used to denote the degrees of freedom of a $\chi^2$ distribution
+-   $\Gamma(t)$: the **Gamma function** $$ \Gamma(r) := \int_{0}^{\infty} x^{r - 1} e^{-x} \ \mathrm{d}x $$
+-   $\psi(t)$: the **Digamma function**: $$ \psi(t) := \frac{\mathrm{d}}{\mathrm{d}t} \ln[\Gamma(t)] = \frac{\Gamma'(t)}{\Gamma(t)} $$
+-   Sometimes, related parameters will be named after consecutive letters in the alphabet. For instance, we may denote the mean of a random variable $X$ by $\mu$ and the mean of another random variable $Y$ by $\nu$, and $\mu$ and $\nu$ appear consecutively in the Greek alphabet. Similarly for variances; $\sigma^2$ and $\tau^2$ are commonly used to denote variances.
+
+## Other Notations
+
+-   In this class, I will often write $X \sim f_X$ to mean "let $X$ be a random variable with density function $f_X(x)$", and $X \sim F_X$ to mean "let $X$ be a random variable with distribution function $F_X(x)$."
+
+-   The symbol $\forall$ is called the **universal quantifier**, and is essentially a mathematical way of writing "for all" or "for every". As an example: $$ (\forall x \in \mathbb{R})[f_X(x) \geq 0] $$ is read "for every real number $x$, the value of $f_X(x)$ will be nonnegative". 
+
+-   The symbol $\exists$ is called the **existential quantifier**, and is essentially a mathematical way of writing "there exists" or "for at least one". As an example: $$ (\exists x \in \mathbb{R})[x^2 = 2] $$ is read "there exists a real number $x$ whose square is 2". 
+
+-   I often use the symbol $:=$ to mean "definitionally equal to". For example, given a random variable $Y$, I'll often write $U := Y^2$ to mean "let $U$ be another random variable that is, by definition, equal to the square of $Y$." 
+
+-   I often use the symbol $\stackrel{!}{=}$ to mean "set equal to". For example, solving $f'(x) \stackrel{!}{=} 0$ for $x$ gives us the set of critical values for the function $f(\cdot)$.
