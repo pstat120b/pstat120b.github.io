@@ -16,6 +16,16 @@ format: html
 
 -   <a href="../Files/Lectures/0_Why_Stats.pdf" target="_blank">**Topic 0:** An Introduction to the Course </a>
 
+-   <a href="../Files/Lectures/1_Cond_Expec_Dist.pdf" target="_blank">**Topic 1:** Conditional Distributions and Expectations </a>
+
+
+\
+
+## Homework Assignments
+
+-   <a href="../Files/HW/HW01.pdf" target="_blank">**HW01**:</a> Due by 11:59pm on Wednesday, June 26, 2024 on Gradescope
+
+
 
 \
 

@@ -14,3 +14,5 @@ format: html
 ## Animated Lecture Slide Decks
 
 -   <a href="../Files/Lectures/0_Why_Stats_animated.pdf" target="_blank">**Topic 0:** An Introduction to the Course </a>
+
+-   <a href="../Files/Lectures/1_Cond_Expec_Dist.pdf" target="_blank">**Topic 0:** An Introduction to the Course </a>
