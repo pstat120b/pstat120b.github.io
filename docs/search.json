@@ -161,20 +161,6 @@
     "text": "Footnotes\n\n\nI apologize; a previous version of this syllabus accidentally included the incorrect information that we are accepting late submissions. Again, to reiterate, in place of late submissions I’ll be dropping your lowest two homework scores↩︎"
   },
   {
-    "objectID": "Pages/course_staff.html",
-    "href": "Pages/course_staff.html",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "",
-    "text": "InstructorTeaching Assistants\n\n\nINSTRUCTOR: Ethan P. Marzban (He/Him)\n\nHello! My name is Ethan P. Marzban (he/him), and I’m currently a PhD student in the Department of Statistics here at UCSB. My research interests span a variety of topics, including mathematical statistics, Bayesian statistics, and Stats/Data Science Education. In my free time, I enjoy playing the piano, drinking boba, and talking about cats. I’m super excited to be your instructor this quarter!\n\n\n\n\n\n\n\nOffice Hours\nLocation\n\n\n\n\nWednesdays, 3 - 4:30pm\nGIRV 2123\n\n\nTBD\nZoom\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nName\nSections\nOH\n\n\n\nHyuk Jean Choe (he/him)\n2 - 2:50 pm (ILP 3105)  3 - 3:50 pm (ILP 3207)\nT, 9am - 12pm (Building 434, Room 113)\n\n\n\nMinwoo Park (he/him)\n4 - 4:50 pm (ILP 3205)  5 - 5:50 pm (LSB 1101)\nM 8am - 9am (SH 5432S)  T, R 6pm - 7pm (SH 5432S)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\nPSTAT 120B: Mathematical Statistics, I\n",
-    "section": "",
-    "text": "PSTAT 120B: Mathematical Statistics, I\n\n\nSummer Session A, 2024  Instructor: Ethan P. Marzban\n\n\n\nWelcome to the course site for the Summer Session A iteration of PSTAT 120B: Mathematical Statistics, with Ethan P. Marzban! Here, you will find all material associated with the course. Feel free to use this material however you like; just please include attribution to me (Ethan).\n\n\nClick Here to access the course site for the iteration of PSTAT 120A I taught a few years back."
-  },
-  {
     "objectID": "Pages/Resources/notation.html",
     "href": "Pages/Resources/notation.html",
     "title": "PSTAT 120B: Mathematical Statistics, I",
@@ -194,6 +180,27 @@
     "title": "PSTAT 120B: Mathematical Statistics, I",
     "section": "Other Notations",
     "text": "Other Notations\n\nIn this class, I will often write \\(X \\sim f_X\\) to mean “let \\(X\\) be a random variable with density function \\(f_X(x)\\)”, and \\(X \\sim F_X\\) to mean “let \\(X\\) be a random variable with distribution function \\(F_X(x)\\).”\nThe symbol \\(\\forall\\) is called the universal quantifier, and is essentially a mathematical way of writing “for all” or “for every”. As an example: \\[ (\\forall x \\in \\mathbb{R})[f_X(x) \\geq 0] \\] is read “for every real number \\(x\\), the value of \\(f_X(x)\\) will be nonnegative”.\nThe symbol \\(\\exists\\) is called the existential quantifier, and is essentially a mathematical way of writing “there exists” or “for at least one”. As an example: \\[ (\\exists x \\in \\mathbb{R})[x^2 = 2] \\] is read “there exists a real number \\(x\\) whose square is 2”.\nI often use the symbol \\(:=\\) to mean “definitionally equal to”. For example, given a random variable \\(Y\\), I’ll often write \\(U := Y^2\\) to mean “let \\(U\\) be another random variable that is, by definition, equal to the square of \\(Y\\).”\nI often use the symbol \\(\\stackrel{!}{=}\\) to mean “set equal to”. For example, solving \\(f'(x) \\stackrel{!}{=} 0\\) for \\(x\\) gives us the set of critical values for the function \\(f(\\cdot)\\)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nPSTAT 120B: Mathematical Statistics, I\n",
+    "section": "",
+    "text": "PSTAT 120B: Mathematical Statistics, I\n\n\nSummer Session A, 2024  Instructor: Ethan P. Marzban\n\n\n\nWelcome to the course site for the Summer Session A iteration of PSTAT 120B: Mathematical Statistics, with Ethan P. Marzban! Here, you will find all material associated with the course. Feel free to use this material however you like; just please include attribution to me (Ethan).\n\n\nClick Here to access the course site for the iteration of PSTAT 120A I taught a few years back."
+  },
+  {
+    "objectID": "Pages/course_staff.html",
+    "href": "Pages/course_staff.html",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "",
+    "text": "InstructorTeaching Assistants\n\n\nINSTRUCTOR: Ethan P. Marzban (He/Him)\n\nHello! My name is Ethan P. Marzban (he/him), and I’m currently a PhD student in the Department of Statistics here at UCSB. My research interests span a variety of topics, including mathematical statistics, Bayesian statistics, and Stats/Data Science Education. In my free time, I enjoy playing the piano, drinking boba, and talking about cats. I’m super excited to be your instructor this quarter!\n\n\n\n\n\n\n\nOffice Hours\nLocation\n\n\n\n\nWednesdays, 3 - 4:30pm\nGIRV 2123\n\n\nTBD\nZoom\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nName\nSections\nOH\n\n\n\nHyuk Jean Choe (he/him)\n2 - 2:50 pm (ILP 3105)  3 - 3:50 pm (ILP 3207)\nT, 9am - 12pm (Building 434, Room 113)\n\n\n\nMinwoo Park (he/him)\n4 - 4:50 pm (ILP 3205)  5 - 5:50 pm (LSB 1101)\nM 8am - 9am (SH 5432S)  T, R 6pm - 7pm (SH 5432S)"
+  },
+  {
+    "objectID": "Pages/Resources/120arev.html",
+    "href": "Pages/Resources/120arev.html",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "",
+    "text": "Review Document I highly encourage you to read through this document, and to consult your PSTAT 120A notes if there are any topics that you are unfamiliar with.\nReview Problems Please consider working through these problems to ensure you have a solid foundation in probability. Solutions to these problems will be released sometime on Tuesday June 25, 2024."
   },
   {
     "objectID": "Pages/lectures.html",

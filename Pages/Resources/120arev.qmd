@@ -1,0 +1,16 @@
+---
+title: "PSTAT 120B: Mathematical Statistics, I"
+subtitle: "Review of PSTAT 120A"
+author:
+  - name: "Ethan Marzban"
+    affiliations:
+      - name: "Summer Session A, 2024"
+author-title: "Instructor"
+affiliation-title: "Quarter"
+format: html
+---
+
+-   <a href="../../Files/Misc/120A_Review.pdf" target="_blank">**Review Document**</a> I highly encourage you to read through this document, and to consult your PSTAT 120A notes if there are any topics that you are unfamiliar with.
+
+-   <a href="../../Files/Misc/120A_Rev_Prob.pdf" target="_blank">**Review Problems**</a> Please consider working through these problems to ensure you have a solid foundation in probability. Solutions to these problems will be released sometime on Tuesday June 25, 2024.
+
