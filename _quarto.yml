@@ -13,7 +13,7 @@ website:
       - href: Pages/policies.qmd
         text: Syllabus/Policies
       - href: Pages/schedule.qmd
-        text: Course Schedule/Calendar
+        text: Lectures/Course Schedule
       - href: Pages/course_staff.qmd
         text: Course Staff
       - section: "Resources"

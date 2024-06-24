@@ -1,0 +1,16 @@
+---
+title: "PSTAT 120B: Mathematical Statistics, I"
+subtitle: "Course Schedule and Calendar"
+author:
+  - name: "Ethan Marzban"
+    affiliations:
+      - name: "Summer Session A, 2024"
+author-title: "Instructor"
+affiliation-title: "Quarter"
+format: html
+---
+
+
+## Animated Lecture Slide Decks
+
+-   <a href="../Files/Lectures/0_Why_Stats_animated.pdf" target="_blank">**Topic 0:** An Introduction to the Course </a>

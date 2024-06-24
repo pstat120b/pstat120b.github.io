@@ -1,6 +1,6 @@
 ---
 title: "PSTAT 120B: Mathematical Statistics, I"
-subtitle: "Course Schedule and Calendar"
+subtitle: "Lectures and Course Schedule"
 author:
   - name: "Ethan Marzban"
     affiliations:
@@ -10,6 +10,14 @@ affiliation-title: "Quarter"
 format: html
 ---
 
+
+
+## Lecture Slide Decks
+
+-   <a href="../Files/Lectures/0_Why_Stats.pdf" target="_blank">**Topic 0:** An Introduction to the Course </a>
+
+
+\
 
 ## Course Schedule 
 
