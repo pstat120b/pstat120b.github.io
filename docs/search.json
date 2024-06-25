@@ -70,11 +70,11 @@
     "text": "Course Components\n\nHomework: there will be one homework assignment due per week, on either Tuesday or Wednesday (please see the tentative schedule). These will be submitted on Gradescope.\nQuizzes: there will be 3 quizzes this quarter, administered once per non-exam week. Quizzes will be administered synchronously and in-person, at the start of Thursday Discussion Sections, and will last for 20 minutes.\nExams: there will be a total of three exams this quarter: two midterms, and one final exam. The dates and locations for the exams are:\n\n\n\n\n\n\n\nExam Dates\n\n\n\n\nMidterm 1: Wednesday, July 3, 2024 during Lecture, in the Lecture Hall\nMidterm 2: Wednesday, July 17, 2024 during Lecture, in the Lecture Hall\nFinal Exam: Friday, August 2, 2024; 4 - 7pm in ILP 2302 [please note that this is DIFFERENT than our usual classroom]"
   },
   {
-    "objectID": "Pages/policies.html#late-work",
-    "href": "Pages/policies.html#late-work",
+    "objectID": "Pages/policies.html#late-work-accommodations",
+    "href": "Pages/policies.html#late-work-accommodations",
     "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Late Work",
-    "text": "Late Work\nWe have adopted the following policies when it comes to late work:\n\nHomework: We unfortunately cannot accommodate late homework submissions1. Instead, I’ll drop your lowest two (2) homework assignments at the end of the quarter.\nQuizzes and Exams: Unfortunately, we will not be offering any make-up quizzes or exams, except for conflicts due to university-sanctioned sports. (If you have a conflict with a quiz or exam due to a university-sanctioned sporting event, please reach out to Ethan ASAP to coordinate.)\n\nPlease also note that our Final Exam is scheduled to take place on the final Friday of the quarter. If this Final Exam time conflicts with another Final Exam you are taking, please reach out to me (Ethan) ASAP to coordinate."
+    "section": "Late Work / Accommodations",
+    "text": "Late Work / Accommodations\nUnfortunately, we cannot accept any late submissions for any assignments (homework, quizzes, exams). Instead:\n\nYour lowest two (2) HW scores and lowest quiz score will be dropped\nThe lower of your two midterm scores will be dropped or replaced with the average of your remaining midterm score and your final exam score; whichever gives you a higher overall final grade (though you must take all three exams; failure to do so will result in a grade of ‘F’)\n\nPlease also note that our Final Exam is scheduled to take place on the final Friday of the quarter. If this Final Exam time conflicts with another Final Exam you are taking, please reach out to me (Ethan) ASAP to coordinate."
   },
   {
     "objectID": "Pages/policies.html#course-grades",
@@ -159,13 +159,6 @@
     "title": "PSTAT 120B: Mathematical Statistics, I",
     "section": "Some General Tips for Success",
     "text": "Some General Tips for Success\nForm study groups\nStatistics is not meant to be a lonely field! There is much we can learn from one another, and it can be an incredibly enlightening experience to discuss problems and ideas with one another. (Just make sure you don’t violate any of the Academic Integrity points listed above)\nBe mindful of how you’re solving problems\nIt’s tempting to start a problem, get about halfway through, and then default to looking at the solutions or a similar worked-out example. This is not an effective way to learn! Rather, start by working through them fully and without looking at similar worked-out problems or solutions. Then you can compare your answers, and identify any areas for potential further study. Finally, return to the problem after a few days and see if you still get stuck in the same places as you did the first time.\nStart things early!\nMake sure you’re giving yourself enough time to complete the homework assignments, study for quizzes/exams, and process the course material. I’d recommend creating a weekly schedule for yourself, and allocating time each day for PSTAT 120B material (whether that be working through the homework, studying for a quiz, or just reading lecture slides/the textbook).\nAttend office hours (TA and Instructor) regularly\nEven if you don’t have a specific question, you’re always more than welcome to sit in on Office Hours and listen to other people’s questions. (Sometimes, doing so will help you formulate your own questions!)\nAttend lectures and Discussion Sections.\nIt’s true that we do not have an attendance policy, but please don’t let yourselves skimp on attendance. Studies show that regular exposure is the best way to learn material, and there really is no substitute for going to Section and Lecture. Also, while you’re in Lecture, take your own notes! Even the act of writing things down and having to synthesize what you think is important information can help you process and learn the material in real time.\nDon’t be too hard on yourself!\nThough a little stress can be a good motivating factor for some, please don’t stress yourself out too much. Your performance in this course is not an evaluation of who you are as a person!"
-  },
-  {
-    "objectID": "Pages/policies.html#footnotes",
-    "href": "Pages/policies.html#footnotes",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nI apologize; a previous version of this syllabus accidentally included the incorrect information that we are accepting late submissions. Again, to reiterate, in place of late submissions I’ll be dropping your lowest two homework scores↩︎"
   },
   {
     "objectID": "Pages/Resources/notation.html",

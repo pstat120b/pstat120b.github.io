@@ -80,13 +80,14 @@ Please note: though the lecture notes I post to the course website are designed 
 :::
 
 
-## Late Work
+## Late Work / Accommodations
 
-We have adopted the following policies when it comes to late work:
+Unfortunately, we cannot accept any late submissions for any assignments (homework, quizzes,
+exams). Instead:
 
--   **Homework:** We unfortunately **cannot accommodate late homework submissions**^[I apologize; a previous version of this syllabus accidentally included the _incorrect_ information that we are accepting late submissions. Again, to reiterate, in place of late submissions I'll be dropping your lowest two homework scores]. Instead, I'll drop your lowest two (2) homework assignments at the end of the quarter.
+-   Your lowest two (2) HW scores and lowest quiz score will be dropped
 
--   **Quizzes and Exams:** Unfortunately, we will **not be offering any make-up quizzes or exams**, except for conflicts due to university-sanctioned sports. (If you have a conflict with a quiz or exam due to a university-sanctioned sporting event, please reach out to Ethan ASAP to coordinate.)
+-   The lower of your two midterm scores will be dropped or replaced with the average of your remaining midterm score and your final exam score; whichever gives you a higher overall final grade (though you must take all three exams; failure to do so will result in a grade of 'F')
 
 Please also note that our Final Exam is scheduled to take place on the final _**Friday**_ of the quarter. If this Final Exam time conflicts with another Final Exam you are taking, please reach out to me (Ethan)  ASAP to coordinate.
 
