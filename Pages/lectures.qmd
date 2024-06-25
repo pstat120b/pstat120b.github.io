@@ -15,4 +15,4 @@ format: html
 
 -   <a href="../Files/Lectures/0_Why_Stats_animated.pdf" target="_blank">**Topic 0:** An Introduction to the Course </a>
 
--   <a href="../Files/Lectures/1_Cond_Expec_Dist.pdf" target="_blank">**Topic 0:** An Introduction to the Course </a>
+-   <a href="../Files/Lectures/1_Cond_Expec_Dist_animated.pdf" target="_blank">**Topic 1:** Conditional Distributions / Expectations </a>
