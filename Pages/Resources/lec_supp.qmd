@@ -1,0 +1,66 @@
+---
+title: "PSTAT 120B: Mathematical Statistics, I"
+subtitle: "Lecture Supplements"
+author:
+  - name: "Ethan Marzban"
+    affiliations:
+      - name: "Summer Session A, 2024"
+author-title: "Instructor"
+affiliation-title: "Quarter"
+format: html
+---
+
+## Lecture 02: Tues. 6/25/24
+
+
+-   Solutions to Chalkboard Example: <a href="../../Files/LecSolns/Lec02_Solns.pdf" target="_blank"><button type="button" class="btn btn-info">.PDF</button></a>
+
+Plot of $f(x, y) = \lambda^3 x e^{-\lambda y} \cdot 1 \! \! \! \! 1_{\{0 < x < y < \infty\}}$ for $\lambda = 0.8$:
+
+```{r, echo = F, fig = T, message = F, fig.height=6}
+library(tidyverse)
+library(tidybayes)
+library(plotly)
+
+dens1 <- Vectorize(function(x, y, lam = 1){
+  if((x > 0) & (x < y) & (y > 0)){
+    return(lam^3 * x * exp(-lam*y))
+  } else {
+    return(0)
+  }
+})
+
+x <- seq(0, 4, length = 500)
+y <- seq(0, 4, length = 500)
+
+z <- matrix(rep(NA, 500^2), nrow = 500)
+for(i in 1:500) {
+  for(j in 1:500) {
+    z[i, j] <- dens1(x[i], y[j], 0.8)
+  }
+}
+
+plot_ly(x = ~x, y = ~y, z = ~z)  %>%
+  add_surface(
+    contours = list(
+      z = list(
+        show = TRUE,
+        usecolormap = TRUE,
+        highlightcolor="#ff0000",
+        project = list(z = TRUE)
+      ),
+      x = list(
+        show = TRUE,
+        usecolormap = TRUE,
+        highlightcolor="#ff0000",
+        project = list(z = TRUE)
+      ),
+      y = list(
+        show = TRUE,
+        usecolormap = TRUE,
+        highlightcolor="#ff0000",
+        project = list(z = TRUE)
+      )
+    )
+  ) 
+```

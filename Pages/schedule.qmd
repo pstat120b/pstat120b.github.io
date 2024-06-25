@@ -26,7 +26,6 @@ format: html
 -   <a href="../Files/HW/HW01.pdf" target="_blank">**HW01**:</a> Due by 11:59pm on Wednesday, June 26, 2024 on Gradescope
 
 
-
 \
 
 ## Course Schedule 

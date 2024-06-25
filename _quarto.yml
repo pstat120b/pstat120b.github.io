@@ -22,6 +22,8 @@ website:
             text: "Statistical Notation"
           - href: Pages/Resources/120arev.qmd
             text: "PSTAT 120A Review"
+          - href: Pages/Resources/lec_supp.qmd
+            text: "Lecture Supplements"
     logo: "Images/Logos_Icons/120b_logo.svg"
     title: "PSTAT 120B: Summer Session A, 2024"
   page-footer: "Site designed by Ethan P. Marzban using Quarto; ©2024"
