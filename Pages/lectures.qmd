@@ -16,3 +16,7 @@ format: html
 -   <a href="../Files/Lectures/0_Why_Stats_animated.pdf" target="_blank">**Topic 0:** An Introduction to the Course </a>
 
 -   <a href="../Files/Lectures/1_Cond_Expec_Dist_animated.pdf" target="_blank">**Topic 1:** Conditional Distributions / Expectations </a>
+
+-   <a href="../Files/Lectures/Part_1_Animated.pdf" target="_blank">**Topic 2:** Part 1</a>
+
+    -   <a href="../Files/Lectures/2_Transformations_Full.pdf" target="_blank">**Backup Full (w/ Animation)**</a>

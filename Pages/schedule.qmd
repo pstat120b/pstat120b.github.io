@@ -18,6 +18,9 @@ format: html
 
 -   <a href="../Files/Lectures/1_Cond_Expec_Dist.pdf" target="_blank">**Topic 1:** Conditional Distributions and Expectations </a>
 
+-   **Topic 2: Transformations**
+    -   <a href="../Files/Lectures/2_Transformations_1.pdf" target="_blank">**Part 1 (CDF Method)**</a>
+
 
 \
 
