@@ -31,6 +31,12 @@ format: html
 
 \
 
+## Quiz Information
+
+-   **Quiz01:** 
+    -   **Topics Covered**: All of Topic 01 (including conditional expectations; just know it at the level of the coin-and-die example)
+    -   **Coverpage and Formula Sheet**: <a href="../Files/Misc/Quiz01_Coverpage.pdf" target="_blank"><button type="button" class="btn btn-info">.PDF</button></a>
+
 ## Course Schedule 
 
 :::{.callout-warning}
