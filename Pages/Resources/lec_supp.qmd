@@ -10,6 +10,13 @@ affiliation-title: "Quarter"
 format: html
 ---
 
+## Lecture 03: Wed 6/26/24
+
+
+-   Solutions to a few Chalkboard Examples: <a href="../../Files/LecSolns/Lec03_Solns.pdf" target="_blank"><button type="button" class="btn btn-info">.PDF</button></a>
+
+\
+
 ## Lecture 02: Tues. 6/25/24
 
 

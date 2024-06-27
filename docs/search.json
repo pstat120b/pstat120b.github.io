@@ -207,14 +207,21 @@
     "href": "Pages/Resources/lec_supp.html",
     "title": "PSTAT 120B: Mathematical Statistics, I",
     "section": "",
-    "text": "Solutions to Chalkboard Example: .PDF\n\nPlot of \\(f(x, y) = \\lambda^3 x e^{-\\lambda y} \\cdot 1 \\! \\! \\! \\! 1_{\\{0 &lt; x &lt; y &lt; \\infty\\}}\\) for \\(\\lambda = 0.8\\):"
+    "text": "Solutions to a few Chalkboard Examples: .PDF"
+  },
+  {
+    "objectID": "Pages/Resources/lec_supp.html#lecture-03-wed-62624",
+    "href": "Pages/Resources/lec_supp.html#lecture-03-wed-62624",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "",
+    "text": "Solutions to a few Chalkboard Examples: .PDF"
   },
   {
     "objectID": "Pages/Resources/lec_supp.html#lecture-02-tues.-62524",
     "href": "Pages/Resources/lec_supp.html#lecture-02-tues.-62524",
     "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "",
-    "text": "Solutions to Chalkboard Example: .PDF\n\nPlot of \\(f(x, y) = \\lambda^3 x e^{-\\lambda y} \\cdot 1 \\! \\! \\! \\! 1_{\\{0 &lt; x &lt; y &lt; \\infty\\}}\\) for \\(\\lambda = 0.8\\):"
+    "section": "Lecture 02: Tues. 6/25/24",
+    "text": "Lecture 02: Tues. 6/25/24\n\nSolutions to Chalkboard Example: .PDF\n\nPlot of \\(f(x, y) = \\lambda^3 x e^{-\\lambda y} \\cdot 1 \\! \\! \\! \\! 1_{\\{0 &lt; x &lt; y &lt; \\infty\\}}\\) for \\(\\lambda = 0.8\\):"
   },
   {
     "objectID": "Pages/Resources/120arev.html",
