@@ -28,6 +28,10 @@ format: html
 
 -   <a href="../Files/HW/HW01.pdf" target="_blank">**HW01**:</a> Due by 11:59pm on Wednesday, June 26, 2024 on Gradescope
     -   **Solutions**: <a href="../Files/HW/HW01_Solns.pdf" target="_blank"><button type="button" class="btn btn-info">.PDF</button></a>
+    
+\
+
+-   <a href="../Files/HW/HW02.pdf" target="_blank">**HW02**:</a> Due by 11:59pm on Tuesday, July 2, 2024 on Gradescope (solutions will be released around 11:59pm on Monday, July 1)
 
 
 \
