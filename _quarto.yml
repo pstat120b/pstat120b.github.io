@@ -16,6 +16,8 @@ website:
         text: Lectures/Course Schedule
       - href: Pages/course_staff.qmd
         text: Course Staff
+      - href: Pages/exams.qmd
+        text: Exam Information
       - section: "Resources"
         contents:
           - href: Pages/Resources/notation.qmd

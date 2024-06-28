@@ -1,0 +1,21 @@
+---
+title: "PSTAT 120B: Mathematical Statistics, I"
+subtitle: "Exam Information"
+author:
+  - name: "Ethan Marzban"
+    affiliations:
+      - name: "Summer Session A, 2024"
+author-title: "Instructor"
+affiliation-title: "Quarter"
+format: html
+---
+
+
+
+## Midterm 1
+
+-   **Information Document (PLEASE READ)**: <a href="https://docs.google.com/document/d/1Qm49FVX0vRQdNktyAnYMRmUUjeS7MjmOdFGXouu4Eow/edit?usp=sharing" target="_blank"><button type="button" class="btn btn-info">Link</button></a>
+
+-   **Practice Problems**: To be posted over the weekend
+
+-   **Midterm 1 Coversheet**: To be posted over the weekend
