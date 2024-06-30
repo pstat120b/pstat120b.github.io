@@ -41,6 +41,9 @@ format: html
 -   **Quiz01:** 
     -   **Topics Covered**: All of Topic 01 (including conditional expectations; just know it at the level of the coin-and-die example)
     -   **Coverpage and Formula Sheet**: <a href="../Files/Misc/Quiz01_Coverpage.pdf" target="_blank"><button type="button" class="btn btn-info">.PDF</button></a>
+    -   **Solutions**: <a href="../Files/QzSolns/Qz01_Solns.pdf" target="_blank"><button type="button" class="btn btn-info">.PDF</button></a> 
+    
+    Please note: there were several versions of the quiz that differed only slightly (in numbers and problem contexts). I will typically only be posting solutions to one version, again because the different versions were very similar to one another. You're welcome to bring questions about your specific quiz to Office Hours (either the Instructor's or the TAs')!
 
 ## Course Schedule 
 
