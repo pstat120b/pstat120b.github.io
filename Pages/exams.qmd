@@ -18,4 +18,4 @@ format: html
 
 -   **Midterm 1 Coversheet**: <a href="../Files/Misc/MT01_Coverpage.pdf" target="_blank"><button type="button" class="btn btn-info">.PDF</button></a>
 
--   **Practice Problems**: To be posted over the weekend
+-   **Practice Problems**: <a href="../Files/Misc/MT01_PracProb.pdf" target="_blank"><button type="button" class="btn btn-info">.PDF</button></a> (solutions to be released Monday evening or Tuesday morning)
