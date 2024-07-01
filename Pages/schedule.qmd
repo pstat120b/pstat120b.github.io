@@ -20,6 +20,7 @@ format: html
 
 -   **Topic 2: Transformations**
     -   <a href="../Files/Lectures/2_Univariate_Transformations.pdf" target="_blank">**Univariate Transformations**</a> (these are fair game for the midterm)
+    -   <a href="../Files/Lectures/0_Monotonicity.pdf" target="_blank">**Review of Precalculus:** Monotonicity</a> (please note that I expect you to know these terms from prerequisite classes; feel free to ask me (or the TAs) about them in Office Hours!)
 
 
 \
