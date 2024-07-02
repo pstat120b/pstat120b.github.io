@@ -32,8 +32,8 @@ format: html
     
 \
 
--   <a href="../Files/HW/HW02.pdf" target="_blank">**HW02**:</a> Due by 11:59pm on Tuesday, July 2, 2024 on Gradescope (solutions will be released around 11:59pm on Monday, July 1)
-
+-   <a href="../Files/HW/HW02.pdf" target="_blank">**HW02**:</a> Due by 11:59pm on Tuesday, July 2, 2024 on Gradescope
+    -   **Solutions**: <a href="https://drive.google.com/file/d/1ALa8AHNZjbrL1zgF5lcZLj3Dfr-wjbqi/" target="_blank"><button type="button" class="btn btn-info">Link</button></a>
 
 \
 
