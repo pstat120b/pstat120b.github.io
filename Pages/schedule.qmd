@@ -61,6 +61,8 @@ _**This page will be updated as we progress through the quarter; please check ba
 -   📄 = Discussion Section Worksheet
 :::
 
+_**Last Updated:**_ 7/3/24
+
 ```{r setup, include = F}
 library(googlesheets4)
 library(gt)
