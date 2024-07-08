@@ -22,3 +22,5 @@ format: html
     -   <a href="../Files/Lectures/2_Transformations_Full.pdf" target="_blank">**Backup Full (w/ Animation)**</a>
     
     -   <a href="../Files/Lectures/2_Transformations.pdf" target="_blank">**FULL (w/ Animation)**</a>
+    
+    -   <a href="../Files/Lectures/2_Transformations_Multi_Animated.pdf" target="_blank">**FULL MULTIVARIATE (w/ Animation)**</a>
