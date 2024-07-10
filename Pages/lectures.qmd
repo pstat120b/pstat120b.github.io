@@ -24,3 +24,7 @@ format: html
     -   <a href="../Files/Lectures/2_Transformations.pdf" target="_blank">**FULL (w/ Animation)**</a>
     
     -   <a href="../Files/Lectures/2_Transformations_Multi_Animated.pdf" target="_blank">**FULL MULTIVARIATE (w/ Animation)**</a>
+    
+    
+    
+-   <a href="../Files/Lectures/3_Estimation_P1_Animated.pdf" target="_blank">**Topic 3:** Part 1</a>

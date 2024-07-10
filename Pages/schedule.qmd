@@ -23,6 +23,8 @@ format: html
         -   <a href="../Files/Lectures/0_Monotonicity.pdf" target="_blank">**Review of Precalculus:** Monotonicity</a> (please note that I expect you to know these terms from prerequisite classes; feel free to ask me (or the TAs) about them in Office Hours!)
     -   <a href="../Files/Lectures/2_Transformations_Multi.pdf" target="_blank">**Multivariate Transformations**</a> [Updated 7/9/24]
 
+-   **Topic 3: Estimation**
+    -   <a href="../Files/Lectures/3_Estimation_P1.pdf" target="_blank">**Part 1**</a> (these slides will be updated periodically, so please check back regularly!) [Last updated: 7/10/24]
 
 \
 
