@@ -41,6 +41,7 @@ format: html
 \
 
 -   <a href="../Files/HW/HW03.pdf" target="_blank">**HW03**:</a> Due by 11:59pm on Wednesday, July 10, 2024 on Gradescope
+    -   **Solutions** can be found at [this](https://ucsb.instructure.com/courses/20787/modules) link, but won't be available until 12:01am on Thursday 7/11/24 morning. (Later in the day on Thursday, a PDF of solutions will be uploaded directly to this website.)
     
 \
 
