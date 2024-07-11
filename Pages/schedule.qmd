@@ -25,6 +25,8 @@ format: html
 
 -   **Topic 3: Estimation**
     -   <a href="../Files/Lectures/3_Estimation_P1.pdf" target="_blank">**Part 1**</a> (these slides will be updated periodically, so please check back regularly!) [Last updated: 7/10/24]
+    
+    -   <a href="../Files/Lectures/3_Estimation2.pdf" target="_blank">**Part 2**</a> (more work will be done on the whiteboard) [Last updated: 7/11/24]
 
 \
 
