@@ -30,3 +30,5 @@ format: html
 -   <a href="../Files/Lectures/3_Estimation_P1_Animated.pdf" target="_blank">**Topic 3:** Part 1</a>
 
 -   <a href="../Files/Lectures/3_Estimation2_Animated.pdf" target="_blank">**Topic 3:** Part 2</a>
+
+-   <a href="../Files/Lectures/3_Estimation3_Animated.pdf" target="_blank">**Topic 3:** Part 3</a>
