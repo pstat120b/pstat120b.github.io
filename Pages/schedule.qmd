@@ -59,7 +59,7 @@ format: html
 -   **Quiz02:** 
     -   **Topics Covered**: All of Topic 2.5 (Bivariate and Multivariate Transformations)
     -   **Formula Sheet**: <a href="../Files/Misc/Quiz02_Formula_Sheet.pdf" target="_blank"><button type="button" class="btn btn-info">.PDF</button></a>
-    
+    -   **Solutions**: <a href="../Files/QzSolns/Qz02_Solns.pdf" target="_blank"><button type="button" class="btn btn-info">.PDF</button></a> 
     
 \
 
