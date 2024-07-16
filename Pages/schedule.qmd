@@ -50,6 +50,7 @@ format: html
 \
 
 -   <a href="../Files/HW/HW04.pdf" target="_blank">**HW04**:</a> Due by 11:59pm on Monday, July 15, 2024 on Gradescope
+    -   **Solutions**: <a href="https://drive.google.com/file/d/1mXeXsteHOxLcqDx2pwl5V28PExktiyLQ/" target="_blank"><button type="button" class="btn btn-info">Link</button></a>
     
 \
 
