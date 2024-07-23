@@ -36,3 +36,6 @@ format: html
 -   <a href="../Files/Lectures/3_Estimation4_Animated.pdf" target="_blank">**Topic 3:** Part 4</a>
 
 -   <a href="../Files/Lectures/3_Estimation5_Animated.pdf" target="_blank">**Topic 3:** Part 5</a>
+
+
+-   <a href="../Files/Lectures/4_Sufficiency_Animated.pdf" target="_blank">**Topic 4**</a>
