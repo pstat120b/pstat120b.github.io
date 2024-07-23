@@ -34,7 +34,7 @@ format: html
     
     -   <a href="../Files/Lectures/3_Estimation5.pdf" target="_blank">**Part 5**</a> [Last updated: 7/22/24]
 
--   <a href="../Files/Lectures/4_Sufficiency.pdf" target="_blank">**Topic 4:** Sufficiency and MVUEs</a> [Updated 6/26/24]
+-   <a href="../Files/Lectures/4_Sufficiency.pdf" target="_blank">**Topic 4:** Sufficiency and MVUEs</a> [Updated 7/23/24]
 
 \
 
