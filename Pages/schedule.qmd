@@ -34,8 +34,13 @@ format: html
     
     -   <a href="../Files/Lectures/3_Estimation5.pdf" target="_blank">**Part 5**</a> [Last updated: 7/22/24]
 
--   <a href="../Files/Lectures/4_Sufficiency.pdf" target="_blank">**Topic 4:** Sufficiency and MVUEs</a> [Updated 7/23/24]
+-   <a href="../Files/Lectures/4_Sufficiency.pdf" target="_blank">**Topic 4:** Sufficiency and MVUEs</a> [Updated 7/24/24]
 
+
+
+-   **Topic 5: Confidence Intervals**
+    -   <a href="../Files/Lectures/5_ConfInt.pdf" target="_blank">**Part 1**</a> [Last updated: 7/24/24]
+    
 \
 
 ## Homework Assignments
@@ -65,6 +70,12 @@ format: html
 
 ## Quiz Information
 
+
+-   **Quiz03:** 
+    -   **Topics Covered**: Homework 5 concepts (e.g. Method of Moments, Maximum Likelihood [including equivariance], Sufficiency)
+    -   **Formula Sheet**: To be posted in the late afternoon/early evening of Wednesday July 24.
+    
+\
 
 -   **Quiz02:** 
     -   **Topics Covered**: All of Topic 2.5 (Bivariate and Multivariate Transformations)

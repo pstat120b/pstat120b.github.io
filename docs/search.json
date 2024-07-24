@@ -4,14 +4,14 @@
     "href": "Pages/schedule.html",
     "title": "PSTAT 120B: Mathematical Statistics, I",
     "section": "",
-    "text": "Topic 0: An Introduction to the Course \nTopic 1: Conditional Distributions and Expectations  [Updated 6/26/24]\nTopic 2: Transformations\n\nUnivariate Transformations (these are fair game for the first midterm)\n\nReview of Precalculus: Monotonicity (please note that I expect you to know these terms from prerequisite classes; feel free to ask me (or the TAs) about them in Office Hours!)\n\nMultivariate Transformations [Updated 7/9/24]\n\nTopic 3: Estimation\n\nPart 1 (these slides will be updated periodically, so please check back regularly!) [Last updated: 7/10/24]\nPart 2 (more work will be done on the whiteboard) [Last updated: 7/11/24]\nPart 3 [Last updated: 7/15/24]\nPart 4 [Last updated: 7/18/24]\nPart 5 [Last updated: 7/22/24]\n\nTopic 4: Sufficiency and MVUEs [Updated 7/23/24]"
+    "text": "Topic 0: An Introduction to the Course \nTopic 1: Conditional Distributions and Expectations  [Updated 6/26/24]\nTopic 2: Transformations\n\nUnivariate Transformations (these are fair game for the first midterm)\n\nReview of Precalculus: Monotonicity (please note that I expect you to know these terms from prerequisite classes; feel free to ask me (or the TAs) about them in Office Hours!)\n\nMultivariate Transformations [Updated 7/9/24]\n\nTopic 3: Estimation\n\nPart 1 (these slides will be updated periodically, so please check back regularly!) [Last updated: 7/10/24]\nPart 2 (more work will be done on the whiteboard) [Last updated: 7/11/24]\nPart 3 [Last updated: 7/15/24]\nPart 4 [Last updated: 7/18/24]\nPart 5 [Last updated: 7/22/24]\n\nTopic 4: Sufficiency and MVUEs [Updated 7/24/24]\nTopic 5: Confidence Intervals\n\nPart 1 [Last updated: 7/24/24]"
   },
   {
     "objectID": "Pages/schedule.html#lecture-slide-decks",
     "href": "Pages/schedule.html#lecture-slide-decks",
     "title": "PSTAT 120B: Mathematical Statistics, I",
     "section": "",
-    "text": "Topic 0: An Introduction to the Course \nTopic 1: Conditional Distributions and Expectations  [Updated 6/26/24]\nTopic 2: Transformations\n\nUnivariate Transformations (these are fair game for the first midterm)\n\nReview of Precalculus: Monotonicity (please note that I expect you to know these terms from prerequisite classes; feel free to ask me (or the TAs) about them in Office Hours!)\n\nMultivariate Transformations [Updated 7/9/24]\n\nTopic 3: Estimation\n\nPart 1 (these slides will be updated periodically, so please check back regularly!) [Last updated: 7/10/24]\nPart 2 (more work will be done on the whiteboard) [Last updated: 7/11/24]\nPart 3 [Last updated: 7/15/24]\nPart 4 [Last updated: 7/18/24]\nPart 5 [Last updated: 7/22/24]\n\nTopic 4: Sufficiency and MVUEs [Updated 7/23/24]"
+    "text": "Topic 0: An Introduction to the Course \nTopic 1: Conditional Distributions and Expectations  [Updated 6/26/24]\nTopic 2: Transformations\n\nUnivariate Transformations (these are fair game for the first midterm)\n\nReview of Precalculus: Monotonicity (please note that I expect you to know these terms from prerequisite classes; feel free to ask me (or the TAs) about them in Office Hours!)\n\nMultivariate Transformations [Updated 7/9/24]\n\nTopic 3: Estimation\n\nPart 1 (these slides will be updated periodically, so please check back regularly!) [Last updated: 7/10/24]\nPart 2 (more work will be done on the whiteboard) [Last updated: 7/11/24]\nPart 3 [Last updated: 7/15/24]\nPart 4 [Last updated: 7/18/24]\nPart 5 [Last updated: 7/22/24]\n\nTopic 4: Sufficiency and MVUEs [Updated 7/24/24]\nTopic 5: Confidence Intervals\n\nPart 1 [Last updated: 7/24/24]"
   },
   {
     "objectID": "Pages/schedule.html#homework-assignments",
@@ -25,7 +25,7 @@
     "href": "Pages/schedule.html#quiz-information",
     "title": "PSTAT 120B: Mathematical Statistics, I",
     "section": "Quiz Information",
-    "text": "Quiz Information\n\nQuiz02:\n\nTopics Covered: All of Topic 2.5 (Bivariate and Multivariate Transformations)\nFormula Sheet: .PDF\nSolutions: .PDF\n\n\n\n\n\nQuiz01:\n\nTopics Covered: All of Topic 01 (including conditional expectations; just know it at the level of the coin-and-die example)\nCoverpage and Formula Sheet: .PDF\nSolutions: .PDF\n\nPlease note: there were several versions of the quiz that differed only slightly (in numbers and problem contexts). I will typically only be posting solutions to one version, again because the different versions were very similar to one another. You’re welcome to bring questions about your specific quiz to Office Hours (either the Instructor’s or the TAs’)!"
+    "text": "Quiz Information\n\nQuiz03:\n\nTopics Covered: Homework 5 concepts (e.g. Method of Moments, Maximum Likelihood [including equivariance], Sufficiency)\nFormula Sheet: To be posted in the late afternoon/early evening of Wednesday July 24.\n\n\n\n\n\nQuiz02:\n\nTopics Covered: All of Topic 2.5 (Bivariate and Multivariate Transformations)\nFormula Sheet: .PDF\nSolutions: .PDF\n\n\n\n\n\nQuiz01:\n\nTopics Covered: All of Topic 01 (including conditional expectations; just know it at the level of the coin-and-die example)\nCoverpage and Formula Sheet: .PDF\nSolutions: .PDF\n\nPlease note: there were several versions of the quiz that differed only slightly (in numbers and problem contexts). I will typically only be posting solutions to one version, again because the different versions were very similar to one another. You’re welcome to bring questions about your specific quiz to Office Hours (either the Instructor’s or the TAs’)!"
   },
   {
     "objectID": "Pages/schedule.html#course-schedule",
@@ -39,14 +39,14 @@
     "href": "Pages/lectures.html",
     "title": "PSTAT 120B: Mathematical Statistics, I",
     "section": "",
-    "text": "Topic 0: An Introduction to the Course \nTopic 1: Conditional Distributions / Expectations \nTopic 2: Part 1\n\nBackup Full (w/ Animation)\nFULL (w/ Animation)\nFULL MULTIVARIATE (w/ Animation)\n\nTopic 3: Part 1\nTopic 3: Part 2\nTopic 3: Part 3\nTopic 3: Part 4\nTopic 3: Part 5\nTopic 4"
+    "text": "Topic 0: An Introduction to the Course \nTopic 1: Conditional Distributions / Expectations \nTopic 2: Part 1\n\nBackup Full (w/ Animation)\nFULL (w/ Animation)\nFULL MULTIVARIATE (w/ Animation)\n\nTopic 3: Part 1\nTopic 3: Part 2\nTopic 3: Part 3\nTopic 3: Part 4\nTopic 3: Part 5\nTopic 4\nTopic 5, Part 1"
   },
   {
     "objectID": "Pages/lectures.html#animated-lecture-slide-decks",
     "href": "Pages/lectures.html#animated-lecture-slide-decks",
     "title": "PSTAT 120B: Mathematical Statistics, I",
     "section": "",
-    "text": "Topic 0: An Introduction to the Course \nTopic 1: Conditional Distributions / Expectations \nTopic 2: Part 1\n\nBackup Full (w/ Animation)\nFULL (w/ Animation)\nFULL MULTIVARIATE (w/ Animation)\n\nTopic 3: Part 1\nTopic 3: Part 2\nTopic 3: Part 3\nTopic 3: Part 4\nTopic 3: Part 5\nTopic 4"
+    "text": "Topic 0: An Introduction to the Course \nTopic 1: Conditional Distributions / Expectations \nTopic 2: Part 1\n\nBackup Full (w/ Animation)\nFULL (w/ Animation)\nFULL MULTIVARIATE (w/ Animation)\n\nTopic 3: Part 1\nTopic 3: Part 2\nTopic 3: Part 3\nTopic 3: Part 4\nTopic 3: Part 5\nTopic 4\nTopic 5, Part 1"
   },
   {
     "objectID": "Pages/Resources/120arev.html",
