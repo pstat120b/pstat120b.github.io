@@ -73,7 +73,7 @@ format: html
 
 -   **Quiz03:** 
     -   **Topics Covered**: Homework 5 concepts (e.g. Method of Moments, Maximum Likelihood [including equivariance], Sufficiency)
-    -   **Formula Sheet**: To be posted in the late afternoon/early evening of Wednesday July 24.
+    -   **Formula Sheet**: <a href="../Files/Misc/Quiz03_Formula_Sheet.pdf" target="_blank"><button type="button" class="btn btn-info">.PDF</button></a>
     
 \
 
