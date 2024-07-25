@@ -67,6 +67,8 @@ format: html
 
 
 -   <a href="https://drive.google.com/file/d/1o-aYPvaA0G4Vr8D5hk0T4vkR5jEuTePD/" target="_blank">**HW05**:</a> Due by 11:59pm on Wednesday, July 24, 2024 on Gradescope
+    -   **Solutions**: Solutions will become available at 12:01am on Thursday, Jult 25, 2024 at <a href="
+https://ucsb.instructure.com/courses/20787/modules" target="_blank">this</a> link. They will be uploaded to this website later in the day on Thursday.
 
 ## Quiz Information
 
