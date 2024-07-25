@@ -42,3 +42,5 @@ format: html
 
 
 -   <a href="../Files/Lectures/5_ConfInt_Animated.pdf" target="_blank">**Topic 5**, Part 1</a>
+
+-   <a href="../Files/Lectures/5_ConfInt_2_Animated.pdf" target="_blank">**Topic 5**, Part 2</a>
