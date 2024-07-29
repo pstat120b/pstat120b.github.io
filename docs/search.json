@@ -18,14 +18,14 @@
     "href": "Pages/schedule.html#homework-assignments",
     "title": "PSTAT 120B: Mathematical Statistics, I",
     "section": "Homework Assignments",
-    "text": "Homework Assignments\n\nHW01: Due by 11:59pm on Wednesday, June 26, 2024 on Gradescope\n\nSolutions: .PDF\n\n\n\n\n\nHW02: Due by 11:59pm on Tuesday, July 2, 2024 on Gradescope\n\nSolutions: Link\n\n\n\n\n\nHW03: Due by 11:59pm on Wednesday, July 10, 2024 on Gradescope\n\nSolutions can be found at this link, and here\n\n\n\n\n\nHW04: Due by 11:59pm on Monday, July 15, 2024 on Gradescope\n\nSolutions: Link\n\n\n\n\n\nHW05: Due by 11:59pm on Wednesday, July 24, 2024 on Gradescope\n\nSolutions: Solutions will become available at 12:01am on Thursday, July 25, 2024 at this link. They will be uploaded to this website later in the day on Thursday."
+    "text": "Homework Assignments\n\nHW01: Due by 11:59pm on Wednesday, June 26, 2024 on Gradescope\n\nSolutions: .PDF\n\n\n\n\n\nHW02: Due by 11:59pm on Tuesday, July 2, 2024 on Gradescope\n\nSolutions: Link\n\n\n\n\n\nHW03: Due by 11:59pm on Wednesday, July 10, 2024 on Gradescope\n\nSolutions can be found at this link, and here\n\n\n\n\n\nHW04: Due by 11:59pm on Monday, July 15, 2024 on Gradescope\n\nSolutions: Link\n\n\n\n\n\nHW05: Due by 11:59pm on Wednesday, July 24, 2024 on Gradescope\n\nSolutions: Solutions will become available at 12:01am on Thursday, July 25, 2024 at this link. They will be uploaded to this website later in the day on Thursday.\n\n\n\n\n\nHW06: Due by 11:59pm on Tuesday, July 30, 2024 on Gradescope. Will be graded only on completion - the bulk of the problems have been worked through (or will be worked through) in Lecture."
   },
   {
     "objectID": "Pages/schedule.html#quiz-information",
     "href": "Pages/schedule.html#quiz-information",
     "title": "PSTAT 120B: Mathematical Statistics, I",
     "section": "Quiz Information",
-    "text": "Quiz Information\n\nQuiz03:\n\nTopics Covered: Homework 5 concepts (e.g. Method of Moments, Maximum Likelihood [including equivariance], Sufficiency)\nFormula Sheet: .PDF\n\n\n\n\n\nQuiz02:\n\nTopics Covered: All of Topic 2.5 (Bivariate and Multivariate Transformations)\nFormula Sheet: .PDF\nSolutions: .PDF\n\n\n\n\n\nQuiz01:\n\nTopics Covered: All of Topic 01 (including conditional expectations; just know it at the level of the coin-and-die example)\nCoverpage and Formula Sheet: .PDF\nSolutions: .PDF\n\nPlease note: there were several versions of the quiz that differed only slightly (in numbers and problem contexts). I will typically only be posting solutions to one version, again because the different versions were very similar to one another. You’re welcome to bring questions about your specific quiz to Office Hours (either the Instructor’s or the TAs’)!"
+    "text": "Quiz Information\n\nQuiz03:\n\nTopics Covered: Homework 5 concepts (e.g. Method of Moments, Maximum Likelihood [including equivariance], Sufficiency)\nFormula Sheet: .PDF\nSolutions: .PDF\n\n\n\n\n\nQuiz02:\n\nTopics Covered: All of Topic 2.5 (Bivariate and Multivariate Transformations)\nFormula Sheet: .PDF\nSolutions: .PDF\n\n\n\n\n\nQuiz01:\n\nTopics Covered: All of Topic 01 (including conditional expectations; just know it at the level of the coin-and-die example)\nCoverpage and Formula Sheet: .PDF\nSolutions: .PDF\n\nPlease note: there were several versions of the quiz that differed only slightly (in numbers and problem contexts). I will typically only be posting solutions to one version, again because the different versions were very similar to one another. You’re welcome to bring questions about your specific quiz to Office Hours (either the Instructor’s or the TAs’)!"
   },
   {
     "objectID": "Pages/schedule.html#course-schedule",
@@ -249,14 +249,21 @@
     "href": "Pages/exams.html",
     "title": "PSTAT 120B: Mathematical Statistics, I",
     "section": "",
-    "text": "Information Document (PLEASE READ): Link\nMidterm 2 Coversheet: .PDF\nPractice Problems: .PDF\n\nSolutions: Link\n\nMidterm 2: Version B, Blank Version B, Solutions"
+    "text": "Information Document (PLEASE READ): Link\nFinal Exam Coversheet: To be posted soon\nPractice Problems: Link\n\nSolutions: Will be released in the evening of Wednesday, July 31"
+  },
+  {
+    "objectID": "Pages/exams.html#final-examination",
+    "href": "Pages/exams.html#final-examination",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "",
+    "text": "Information Document (PLEASE READ): Link\nFinal Exam Coversheet: To be posted soon\nPractice Problems: Link\n\nSolutions: Will be released in the evening of Wednesday, July 31"
   },
   {
     "objectID": "Pages/exams.html#midterm-2",
     "href": "Pages/exams.html#midterm-2",
     "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "",
-    "text": "Information Document (PLEASE READ): Link\nMidterm 2 Coversheet: .PDF\nPractice Problems: .PDF\n\nSolutions: Link\n\nMidterm 2: Version B, Blank Version B, Solutions"
+    "section": "Midterm 2",
+    "text": "Midterm 2\n\nInformation Document (PLEASE READ): Link\nMidterm 2 Coversheet: .PDF\nPractice Problems: .PDF\n\nSolutions: Link\n\nMidterm 2: Version B, Blank Version B, Solutions"
   },
   {
     "objectID": "Pages/exams.html#midterm-1",

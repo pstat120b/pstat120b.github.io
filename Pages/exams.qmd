@@ -10,6 +10,17 @@ affiliation-title: "Quarter"
 format: html
 ---
 
+## Final Examination
+
+-   **Information Document (PLEASE READ)**: <a href="https://docs.google.com/document/d/1KsvtXxyY4IvURM6UDeut6u9rBEad41BCXnDeoSiWx8A/" target="_blank"><button type="button" class="btn btn-info">Link</button></a>
+
+-   **Final Exam Coversheet**: To be posted soon
+
+-   **Practice Problems**: <a href="https://drive.google.com/file/d/1K7pv29er6DT0kxEdFVzcOeUm4E3uoFMl/" target="_blank"><button type="button" class="btn btn-info">Link</button></a>
+    -   **Solutions**: Will be released in the evening of Wednesday, July 31
+
+\
+
 
 ## Midterm 2
 

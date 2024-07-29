@@ -72,12 +72,17 @@ format: html
     -   **Solutions**: Solutions will become available at 12:01am on Thursday, July 25, 2024 at <a href="
 https://ucsb.instructure.com/courses/20787/modules" target="_blank">this</a> link. They will be uploaded to this website later in the day on Thursday.
 
+\
+
+-   <a href="../Files/HW/HW06.pdf" target="_blank">**HW06**:</a> Due by 11:59pm on Tuesday, July 30, 2024 on Gradescope. Will be graded only on **completion** - the bulk of the problems have been worked through (or will be worked through) in Lecture.
+
 ## Quiz Information
 
 
 -   **Quiz03:** 
     -   **Topics Covered**: Homework 5 concepts (e.g. Method of Moments, Maximum Likelihood [including equivariance], Sufficiency)
     -   **Formula Sheet**: <a href="../Files/Misc/Quiz03_Formula_Sheet.pdf" target="_blank"><button type="button" class="btn btn-info">.PDF</button></a>
+    -   **Solutions**: <a href="../Files/QzSolns/Qz03_Solns.pdf" target="_blank"><button type="button" class="btn btn-info">.PDF</button></a> 
     
 \
 
