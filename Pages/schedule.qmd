@@ -43,6 +43,11 @@ format: html
     
     -   <a href="../Files/Lectures/5_ConfInt_2.pdf" target="_blank">**Part 2**</a> [Last updated: 7/25/24]
     
+
+
+-   **Topic 6: Hypothesis Testing**
+    -   <a href="../Files/Lectures/6_Hypothesis_Testing_1.pdf" target="_blank">**Part 1**</a> [Last updated: 7/29/24] 
+    
 \
 
 ## Homework Assignments
