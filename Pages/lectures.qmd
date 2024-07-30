@@ -48,3 +48,5 @@ format: html
 
 
 -   <a href="../Files/Lectures/6_Hypothesis_Testing_1_Animated.pdf" target="_blank">**Topic 6**, Part 1</a>
+
+-   <a href="../Files/Lectures/6_Hypothesis_Testing_2_Animated.pdf" target="_blank">**Topic 6**, Part 2</a>

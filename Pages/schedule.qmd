@@ -46,7 +46,9 @@ format: html
 
 
 -   **Topic 6: Hypothesis Testing**
-    -   <a href="../Files/Lectures/6_Hypothesis_Testing_1.pdf" target="_blank">**Part 1**</a> [Last updated: 7/29/24] 
+    -   <a href="../Files/Lectures/6_Hypothesis_Testing_1.pdf" target="_blank">**Part 1**</a> [Last updated: 7/29/24] ; **contains a typo in one example, to be updated soon.**
+    
+    -   <a href="../Files/Lectures/6_Hypothesis_Testing_2.pdf" target="_blank">**Part 2**</a> [Last updated: 7/30/24] 
     
 \
 
