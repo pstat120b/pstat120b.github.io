@@ -64,6 +64,8 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -245,12 +247,15 @@ ul.task-list li input[type="checkbox"] {
 <li><p><a href="../Files/Lectures/4_Sufficiency.pdf" target="_blank"><strong>Topic 4:</strong> Sufficiency and MVUEs</a> [Updated 7/24/24]</p></li>
 <li><p><strong>Topic 5: Confidence Intervals</strong></p>
 <ul>
-<li><p><a href="../Files/Lectures/5_ConfInt.pdf" target="_blank"><strong>Part 1</strong></a> [Last updated: 7/24/24] <strong>Includes some typos; will be fixed soon</strong></p></li>
+<li><p><a href="../Files/Lectures/5_ConfInt.pdf" target="_blank"><strong>Part 1</strong></a> [Last updated: 7/31/24] <strong>Typos have been fixed</strong></p></li>
 <li><p><a href="../Files/Lectures/5_ConfInt_2.pdf" target="_blank"><strong>Part 2</strong></a> [Last updated: 7/25/24]</p></li>
 </ul></li>
 <li><p><strong>Topic 6: Hypothesis Testing</strong></p>
 <ul>
-<li><p><a href="../Files/Lectures/6_Hypothesis_Testing_1.pdf" target="_blank"><strong>Part 1</strong></a> [Last updated: 7/29/24] ; <strong>contains a typo in one example, to be updated soon.</strong></p></li>
+<li><p><a href="../Files/Lectures/6_Hypothesis_Testing_1.pdf" target="_blank"><strong>Part 1</strong></a> [Last updated: 7/31/24] ; <strong>Typo has been fixed, and a few slides have been added based on our discussion in Lecture</strong>.</p>
+<ul>
+<li><strong>PLEASE NOTE:</strong> I made a bit of an error in the final example previously. In a two-sided <span class="math inline">\(T-\)</span>test, the test statistic is <span class="math inline">\(\left| \frac{\overline{Y}_n - \mu_0}{s_n / \sqrt{n}} \right|\)</span> <strong>INCLUDING THE ABSOLUTE VALUES</strong>. (Some conventions do not include the absolute values in the term “test statistic,” but we will adopt the convention that “test statistic,” in the two-sided case, includes the absolute values. So please be aware of this for the final exam!)</li>
+</ul></li>
 <li><p><a href="../Files/Lectures/6_Hypothesis_Testing_2.pdf" target="_blank"><strong>Part 2</strong></a> [Last updated: 7/30/24]</p></li>
 </ul></li>
 </ul>
@@ -372,23 +377,23 @@ Please note: there were several versions of the quiz that differed only slightly
 <div class="cell">
 <div class="cell-output-display">
 
-<div id="stqwglzhrx" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#stqwglzhrx table {
+<div id="toooajsdlw" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#toooajsdlw table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#stqwglzhrx thead, #stqwglzhrx tbody, #stqwglzhrx tfoot, #stqwglzhrx tr, #stqwglzhrx td, #stqwglzhrx th {
+#toooajsdlw thead, #toooajsdlw tbody, #toooajsdlw tfoot, #toooajsdlw tr, #toooajsdlw td, #toooajsdlw th {
   border-style: none;
 }
 
-#stqwglzhrx p {
+#toooajsdlw p {
   margin: 0;
   padding: 0;
 }
 
-#stqwglzhrx .gt_table {
+#toooajsdlw .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -414,12 +419,12 @@ Please note: there were several versions of the quiz that differed only slightly
   border-left-color: #D3D3D3;
 }
 
-#stqwglzhrx .gt_caption {
+#toooajsdlw .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#stqwglzhrx .gt_title {
+#toooajsdlw .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -431,7 +436,7 @@ Please note: there were several versions of the quiz that differed only slightly
   border-bottom-width: 0;
 }
 
-#stqwglzhrx .gt_subtitle {
+#toooajsdlw .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -443,7 +448,7 @@ Please note: there were several versions of the quiz that differed only slightly
   border-top-width: 0;
 }
 
-#stqwglzhrx .gt_heading {
+#toooajsdlw .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -455,13 +460,13 @@ Please note: there were several versions of the quiz that differed only slightly
   border-right-color: #D3D3D3;
 }
 
-#stqwglzhrx .gt_bottom_border {
+#toooajsdlw .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#stqwglzhrx .gt_col_headings {
+#toooajsdlw .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -476,7 +481,7 @@ Please note: there were several versions of the quiz that differed only slightly
   border-right-color: #D3D3D3;
 }
 
-#stqwglzhrx .gt_col_heading {
+#toooajsdlw .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -496,7 +501,7 @@ Please note: there were several versions of the quiz that differed only slightly
   overflow-x: hidden;
 }
 
-#stqwglzhrx .gt_column_spanner_outer {
+#toooajsdlw .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -508,15 +513,15 @@ Please note: there were several versions of the quiz that differed only slightly
   padding-right: 4px;
 }
 
-#stqwglzhrx .gt_column_spanner_outer:first-child {
+#toooajsdlw .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#stqwglzhrx .gt_column_spanner_outer:last-child {
+#toooajsdlw .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#stqwglzhrx .gt_column_spanner {
+#toooajsdlw .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -528,11 +533,11 @@ Please note: there were several versions of the quiz that differed only slightly
   width: 100%;
 }
 
-#stqwglzhrx .gt_spanner_row {
+#toooajsdlw .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#stqwglzhrx .gt_group_heading {
+#toooajsdlw .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -558,7 +563,7 @@ Please note: there were several versions of the quiz that differed only slightly
   text-align: left;
 }
 
-#stqwglzhrx .gt_empty_group_heading {
+#toooajsdlw .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -573,15 +578,15 @@ Please note: there were several versions of the quiz that differed only slightly
   vertical-align: middle;
 }
 
-#stqwglzhrx .gt_from_md > :first-child {
+#toooajsdlw .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#stqwglzhrx .gt_from_md > :last-child {
+#toooajsdlw .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#stqwglzhrx .gt_row {
+#toooajsdlw .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -600,7 +605,7 @@ Please note: there were several versions of the quiz that differed only slightly
   overflow-x: hidden;
 }
 
-#stqwglzhrx .gt_stub {
+#toooajsdlw .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -613,7 +618,7 @@ Please note: there were several versions of the quiz that differed only slightly
   padding-right: 5px;
 }
 
-#stqwglzhrx .gt_stub_row_group {
+#toooajsdlw .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -627,15 +632,15 @@ Please note: there were several versions of the quiz that differed only slightly
   vertical-align: top;
 }
 
-#stqwglzhrx .gt_row_group_first td {
+#toooajsdlw .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#stqwglzhrx .gt_row_group_first th {
+#toooajsdlw .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#stqwglzhrx .gt_summary_row {
+#toooajsdlw .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -645,16 +650,16 @@ Please note: there were several versions of the quiz that differed only slightly
   padding-right: 5px;
 }
 
-#stqwglzhrx .gt_first_summary_row {
+#toooajsdlw .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#stqwglzhrx .gt_first_summary_row.thick {
+#toooajsdlw .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#stqwglzhrx .gt_last_summary_row {
+#toooajsdlw .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -664,7 +669,7 @@ Please note: there were several versions of the quiz that differed only slightly
   border-bottom-color: #D3D3D3;
 }
 
-#stqwglzhrx .gt_grand_summary_row {
+#toooajsdlw .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -674,7 +679,7 @@ Please note: there were several versions of the quiz that differed only slightly
   padding-right: 5px;
 }
 
-#stqwglzhrx .gt_first_grand_summary_row {
+#toooajsdlw .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -684,7 +689,7 @@ Please note: there were several versions of the quiz that differed only slightly
   border-top-color: #D3D3D3;
 }
 
-#stqwglzhrx .gt_last_grand_summary_row_top {
+#toooajsdlw .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -694,11 +699,11 @@ Please note: there were several versions of the quiz that differed only slightly
   border-bottom-color: #D3D3D3;
 }
 
-#stqwglzhrx .gt_striped {
+#toooajsdlw .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#stqwglzhrx .gt_table_body {
+#toooajsdlw .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -707,7 +712,7 @@ Please note: there were several versions of the quiz that differed only slightly
   border-bottom-color: #D3D3D3;
 }
 
-#stqwglzhrx .gt_footnotes {
+#toooajsdlw .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -721,7 +726,7 @@ Please note: there were several versions of the quiz that differed only slightly
   border-right-color: #D3D3D3;
 }
 
-#stqwglzhrx .gt_footnote {
+#toooajsdlw .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -730,7 +735,7 @@ Please note: there were several versions of the quiz that differed only slightly
   padding-right: 5px;
 }
 
-#stqwglzhrx .gt_sourcenotes {
+#toooajsdlw .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -744,7 +749,7 @@ Please note: there were several versions of the quiz that differed only slightly
   border-right-color: #D3D3D3;
 }
 
-#stqwglzhrx .gt_sourcenote {
+#toooajsdlw .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -752,63 +757,63 @@ Please note: there were several versions of the quiz that differed only slightly
   padding-right: 5px;
 }
 
-#stqwglzhrx .gt_left {
+#toooajsdlw .gt_left {
   text-align: left;
 }
 
-#stqwglzhrx .gt_center {
+#toooajsdlw .gt_center {
   text-align: center;
 }
 
-#stqwglzhrx .gt_right {
+#toooajsdlw .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#stqwglzhrx .gt_font_normal {
+#toooajsdlw .gt_font_normal {
   font-weight: normal;
 }
 
-#stqwglzhrx .gt_font_bold {
+#toooajsdlw .gt_font_bold {
   font-weight: bold;
 }
 
-#stqwglzhrx .gt_font_italic {
+#toooajsdlw .gt_font_italic {
   font-style: italic;
 }
 
-#stqwglzhrx .gt_super {
+#toooajsdlw .gt_super {
   font-size: 65%;
 }
 
-#stqwglzhrx .gt_footnote_marks {
+#toooajsdlw .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#stqwglzhrx .gt_asterisk {
+#toooajsdlw .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#stqwglzhrx .gt_indent_1 {
+#toooajsdlw .gt_indent_1 {
   text-indent: 5px;
 }
 
-#stqwglzhrx .gt_indent_2 {
+#toooajsdlw .gt_indent_2 {
   text-indent: 10px;
 }
 
-#stqwglzhrx .gt_indent_3 {
+#toooajsdlw .gt_indent_3 {
   text-indent: 15px;
 }
 
-#stqwglzhrx .gt_indent_4 {
+#toooajsdlw .gt_indent_4 {
   text-indent: 20px;
 }
 
-#stqwglzhrx .gt_indent_5 {
+#toooajsdlw .gt_indent_5 {
   text-indent: 25px;
 }
 </style>

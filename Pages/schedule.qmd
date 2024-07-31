@@ -39,14 +39,16 @@ format: html
 
 
 -   **Topic 5: Confidence Intervals**
-    -   <a href="../Files/Lectures/5_ConfInt.pdf" target="_blank">**Part 1**</a> [Last updated: 7/24/24] **Includes some typos; will be fixed soon**
+    -   <a href="../Files/Lectures/5_ConfInt.pdf" target="_blank">**Part 1**</a> [Last updated: 7/31/24] **Typos have been fixed**
     
     -   <a href="../Files/Lectures/5_ConfInt_2.pdf" target="_blank">**Part 2**</a> [Last updated: 7/25/24]
     
 
 
 -   **Topic 6: Hypothesis Testing**
-    -   <a href="../Files/Lectures/6_Hypothesis_Testing_1.pdf" target="_blank">**Part 1**</a> [Last updated: 7/29/24] ; **contains a typo in one example, to be updated soon.**
+    -   <a href="../Files/Lectures/6_Hypothesis_Testing_1.pdf" target="_blank">**Part 1**</a> [Last updated: 7/31/24] ; **Typo has been fixed, and a few slides have been added based on our discussion in Lecture**.
+    
+        -   **PLEASE NOTE:** I made a bit of an error in the final example previously. In a two-sided $T-$test, the test statistic is $\left| \frac{\overline{Y}_n - \mu_0}{s_n / \sqrt{n}} \right|$ **INCLUDING THE ABSOLUTE VALUES**. (Some conventions do not include the absolute values in the term "test statistic," but we will adopt the convention that "test statistic," in the two-sided case, includes the absolute values. So please be aware of this for the final exam!)
     
     -   <a href="../Files/Lectures/6_Hypothesis_Testing_2.pdf" target="_blank">**Part 2**</a> [Last updated: 7/30/24] 
     
