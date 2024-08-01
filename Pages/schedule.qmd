@@ -78,12 +78,13 @@ format: html
 
 
 -   <a href="https://drive.google.com/file/d/1o-aYPvaA0G4Vr8D5hk0T4vkR5jEuTePD/" target="_blank">**HW05**:</a> Due by 11:59pm on Wednesday, July 24, 2024 on Gradescope
-    -   **Solutions**: Solutions will become available at 12:01am on Thursday, July 25, 2024 at <a href="
-https://ucsb.instructure.com/courses/20787/modules" target="_blank">this</a> link. They will be uploaded to this website later in the day on Thursday.
+    -   **Solutions** can be found at [this](https://ucsb.instructure.com/courses/20787/modules) link, and <a href="https://drive.google.com/file/d/1fawQtuiRZ8qr49r3-Lo3k_pzE_xzQxB5/" target="_blank"><button type="button" class="btn btn-info">here</button></a>
+
 
 \
 
 -   <a href="../Files/HW/HW06.pdf" target="_blank">**HW06**:</a> Due by 11:59pm on Tuesday, July 30, 2024 on Gradescope. Will be graded only on **completion** - the bulk of the problems have been worked through (or will be worked through) in Lecture.
+    -   **Solutions**: <a href="https://drive.google.com/file/d/186DuVX5LLrcRd3-QbSmEccmqPBKTSOlm/" target="_blank"><button type="button" class="btn btn-info">Link</button></a>
 
 ## Quiz Information
 
