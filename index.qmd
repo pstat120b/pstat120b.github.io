@@ -11,3 +11,11 @@ Welcome to the course site for the Summer Session A iteration of PSTAT 120B: Mat
 \
 
 <a href="https://pstat120a.github.io" target="_blank"><button type="button" class="btn btn-outline-primary">Click Here</button></a> to access the course site for the iteration of PSTAT 120A I taught a few years back.
+
+\
+
+**This course has concluded.** Here is a distribution of final letter grades I (Ethan) issued:
+
+![](Files/Misc/Final_Grades.png){width="75%"}
+
+In the interest of transparency, I am also including summaries from the Course Evaluations I received this quarter: <a href="Files/Misc/M24_Evaluations.pdf" target="_blank"><button type="button" class="btn btn-outline-primary">Click Here</button></a>
