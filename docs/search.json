@@ -4,35 +4,377 @@
     "href": "Pages/schedule.html",
     "title": "PSTAT 120B: Mathematical Statistics, I",
     "section": "",
-    "text": "Topic 0: An Introduction to the Course \nTopic 1: Conditional Distributions and Expectations  [Updated 6/26/24]\nTopic 2: Transformations\n\nUnivariate Transformations (these are fair game for the first midterm)\n\nReview of Precalculus: Monotonicity (please note that I expect you to know these terms from prerequisite classes; feel free to ask me (or the TAs) about them in Office Hours!)\n\nMultivariate Transformations [Updated 7/9/24]\n\nTopic 3: Estimation\n\nPart 1 (these slides will be updated periodically, so please check back regularly!) [Last updated: 7/10/24]\nPart 2 (more work will be done on the whiteboard) [Last updated: 7/11/24]\nPart 3 [Last updated: 7/15/24]\nPart 4 [Last updated: 7/18/24]\nPart 5 [Last updated: 7/22/24]\n\nTopic 4: Sufficiency and MVUEs [Updated 7/24/24]\nTopic 5: Confidence Intervals\n\nPart 1 [Last updated: 7/31/24] Typos have been fixed\nPart 2 [Last updated: 7/25/24]\n\nTopic 6: Hypothesis Testing\n\nPart 1 [Last updated: 7/31/24] ; Typo has been fixed, and a few slides have been added based on our discussion in Lecture.\n\nPLEASE NOTE: I made a bit of an error in the final example previously. In a two-sided \\(T-\\)test, the test statistic is \\(\\left| \\frac{\\overline{Y}_n - \\mu_0}{s_n / \\sqrt{n}} \\right|\\) INCLUDING THE ABSOLUTE VALUES. (Some conventions do not include the absolute values in the term “test statistic,” but we will adopt the convention that “test statistic,” in the two-sided case, includes the absolute values. So please be aware of this for the final exam!)\n\nPart 2 [Last updated: 7/31/24]"
+    "text": "Topic 0: An Introduction to the Course \nTopic 1: Conditional Distributions and Expectations  [Updated 6/26/24]\nTopic 2: Transformations\n\nUnivariate Transformations (these are fair game for the first midterm)\n\nReview of Precalculus: Monotonicity (please note that I expect you to know these terms from prerequisite classes; feel free to ask me (or the TAs) about them in Office Hours!)\n\nMultivariate Transformations [Updated 7/9/24]\n\nTopic 3: Estimation\n\nPart 1 (these slides will be updated periodically, so please check back regularly!) [Last updated: 7/10/24]\nPart 2 (more work will be done on the whiteboard) [Last updated: 7/11/24]\nPart 3 [Last updated: 7/15/24]\nPart 4 [Last updated: 7/18/24]\nPart 5 [Last updated: 7/22/24]\n\nTopic 4: Sufficiency and MVUEs [Updated 7/24/24]\nTopic 5: Confidence Intervals\n\nPart 1 [Last updated: 7/31/24] Typos have been fixed\nPart 2 [Last updated: 7/25/24]\n\nTopic 6: Hypothesis Testing\n\nPart 1 [Last updated: 7/31/24] ; Typo has been fixed, and a few slides have been added based on our discussion in Lecture.\n\nPLEASE NOTE: I made a bit of an error in the final example previously. In a two-sided \\(T-\\)test, the test statistic is \\(\\left| \\frac{\\overline{Y}_n - \\mu_0}{s_n / \\sqrt{n}} \\right|\\) INCLUDING THE ABSOLUTE VALUES. (Some conventions do not include the absolute values in the term “test statistic,” but we will adopt the convention that “test statistic,” in the two-sided case, includes the absolute values. So please be aware of this for the final exam!)\n\nPart 2 [Last updated: 7/31/24]",
+    "crumbs": [
+      "Lectures/Course Schedule"
+    ]
   },
   {
     "objectID": "Pages/schedule.html#lecture-slide-decks",
     "href": "Pages/schedule.html#lecture-slide-decks",
     "title": "PSTAT 120B: Mathematical Statistics, I",
     "section": "",
-    "text": "Topic 0: An Introduction to the Course \nTopic 1: Conditional Distributions and Expectations  [Updated 6/26/24]\nTopic 2: Transformations\n\nUnivariate Transformations (these are fair game for the first midterm)\n\nReview of Precalculus: Monotonicity (please note that I expect you to know these terms from prerequisite classes; feel free to ask me (or the TAs) about them in Office Hours!)\n\nMultivariate Transformations [Updated 7/9/24]\n\nTopic 3: Estimation\n\nPart 1 (these slides will be updated periodically, so please check back regularly!) [Last updated: 7/10/24]\nPart 2 (more work will be done on the whiteboard) [Last updated: 7/11/24]\nPart 3 [Last updated: 7/15/24]\nPart 4 [Last updated: 7/18/24]\nPart 5 [Last updated: 7/22/24]\n\nTopic 4: Sufficiency and MVUEs [Updated 7/24/24]\nTopic 5: Confidence Intervals\n\nPart 1 [Last updated: 7/31/24] Typos have been fixed\nPart 2 [Last updated: 7/25/24]\n\nTopic 6: Hypothesis Testing\n\nPart 1 [Last updated: 7/31/24] ; Typo has been fixed, and a few slides have been added based on our discussion in Lecture.\n\nPLEASE NOTE: I made a bit of an error in the final example previously. In a two-sided \\(T-\\)test, the test statistic is \\(\\left| \\frac{\\overline{Y}_n - \\mu_0}{s_n / \\sqrt{n}} \\right|\\) INCLUDING THE ABSOLUTE VALUES. (Some conventions do not include the absolute values in the term “test statistic,” but we will adopt the convention that “test statistic,” in the two-sided case, includes the absolute values. So please be aware of this for the final exam!)\n\nPart 2 [Last updated: 7/31/24]"
+    "text": "Topic 0: An Introduction to the Course \nTopic 1: Conditional Distributions and Expectations  [Updated 6/26/24]\nTopic 2: Transformations\n\nUnivariate Transformations (these are fair game for the first midterm)\n\nReview of Precalculus: Monotonicity (please note that I expect you to know these terms from prerequisite classes; feel free to ask me (or the TAs) about them in Office Hours!)\n\nMultivariate Transformations [Updated 7/9/24]\n\nTopic 3: Estimation\n\nPart 1 (these slides will be updated periodically, so please check back regularly!) [Last updated: 7/10/24]\nPart 2 (more work will be done on the whiteboard) [Last updated: 7/11/24]\nPart 3 [Last updated: 7/15/24]\nPart 4 [Last updated: 7/18/24]\nPart 5 [Last updated: 7/22/24]\n\nTopic 4: Sufficiency and MVUEs [Updated 7/24/24]\nTopic 5: Confidence Intervals\n\nPart 1 [Last updated: 7/31/24] Typos have been fixed\nPart 2 [Last updated: 7/25/24]\n\nTopic 6: Hypothesis Testing\n\nPart 1 [Last updated: 7/31/24] ; Typo has been fixed, and a few slides have been added based on our discussion in Lecture.\n\nPLEASE NOTE: I made a bit of an error in the final example previously. In a two-sided \\(T-\\)test, the test statistic is \\(\\left| \\frac{\\overline{Y}_n - \\mu_0}{s_n / \\sqrt{n}} \\right|\\) INCLUDING THE ABSOLUTE VALUES. (Some conventions do not include the absolute values in the term “test statistic,” but we will adopt the convention that “test statistic,” in the two-sided case, includes the absolute values. So please be aware of this for the final exam!)\n\nPart 2 [Last updated: 7/31/24]",
+    "crumbs": [
+      "Lectures/Course Schedule"
+    ]
   },
   {
     "objectID": "Pages/schedule.html#homework-assignments",
     "href": "Pages/schedule.html#homework-assignments",
     "title": "PSTAT 120B: Mathematical Statistics, I",
     "section": "Homework Assignments",
-    "text": "Homework Assignments\n\nHW01: Due by 11:59pm on Wednesday, June 26, 2024 on Gradescope\n\nSolutions: .PDF\n\n\n\n\n\nHW02: Due by 11:59pm on Tuesday, July 2, 2024 on Gradescope\n\nSolutions: Link\n\n\n\n\n\nHW03: Due by 11:59pm on Wednesday, July 10, 2024 on Gradescope\n\nSolutions can be found at this link, and here\n\n\n\n\n\nHW04: Due by 11:59pm on Monday, July 15, 2024 on Gradescope\n\nSolutions: Link\n\n\n\n\n\nHW05: Due by 11:59pm on Wednesday, July 24, 2024 on Gradescope\n\nSolutions can be found at this link, and here\n\n\n\n\n\nHW06: Due by 11:59pm on Tuesday, July 30, 2024 on Gradescope. Will be graded only on completion - the bulk of the problems have been worked through (or will be worked through) in Lecture.\n\nSolutions: Link"
+    "text": "Homework Assignments\n\nHW01: Due by 11:59pm on Wednesday, June 26, 2024 on Gradescope\n\nSolutions: .PDF\n\n\n\n\n\nHW02: Due by 11:59pm on Tuesday, July 2, 2024 on Gradescope\n\nSolutions: Link\n\n\n\n\n\nHW03: Due by 11:59pm on Wednesday, July 10, 2024 on Gradescope\n\nSolutions can be found at this link, and here\n\n\n\n\n\nHW04: Due by 11:59pm on Monday, July 15, 2024 on Gradescope\n\nSolutions: Link\n\n\n\n\n\nHW05: Due by 11:59pm on Wednesday, July 24, 2024 on Gradescope\n\nSolutions can be found at this link, and here\n\n\n\n\n\nHW06: Due by 11:59pm on Tuesday, July 30, 2024 on Gradescope. Will be graded only on completion - the bulk of the problems have been worked through (or will be worked through) in Lecture.\n\nSolutions: Link",
+    "crumbs": [
+      "Lectures/Course Schedule"
+    ]
   },
   {
     "objectID": "Pages/schedule.html#quiz-information",
     "href": "Pages/schedule.html#quiz-information",
     "title": "PSTAT 120B: Mathematical Statistics, I",
     "section": "Quiz Information",
-    "text": "Quiz Information\n\nQuiz03:\n\nTopics Covered: Homework 5 concepts (e.g. Method of Moments, Maximum Likelihood [including equivariance], Sufficiency)\nFormula Sheet: .PDF\nSolutions: .PDF\n\n\n\n\n\nQuiz02:\n\nTopics Covered: All of Topic 2.5 (Bivariate and Multivariate Transformations)\nFormula Sheet: .PDF\nSolutions: .PDF\n\n\n\n\n\nQuiz01:\n\nTopics Covered: All of Topic 01 (including conditional expectations; just know it at the level of the coin-and-die example)\nCoverpage and Formula Sheet: .PDF\nSolutions: .PDF\n\nPlease note: there were several versions of the quiz that differed only slightly (in numbers and problem contexts). I will typically only be posting solutions to one version, again because the different versions were very similar to one another. You’re welcome to bring questions about your specific quiz to Office Hours (either the Instructor’s or the TAs’)!"
+    "text": "Quiz Information\n\nQuiz03:\n\nTopics Covered: Homework 5 concepts (e.g. Method of Moments, Maximum Likelihood [including equivariance], Sufficiency)\nFormula Sheet: .PDF\nSolutions: .PDF\n\n\n\n\n\nQuiz02:\n\nTopics Covered: All of Topic 2.5 (Bivariate and Multivariate Transformations)\nFormula Sheet: .PDF\nSolutions: .PDF\n\n\n\n\n\nQuiz01:\n\nTopics Covered: All of Topic 01 (including conditional expectations; just know it at the level of the coin-and-die example)\nCoverpage and Formula Sheet: .PDF\nSolutions: .PDF\n\nPlease note: there were several versions of the quiz that differed only slightly (in numbers and problem contexts). I will typically only be posting solutions to one version, again because the different versions were very similar to one another. You’re welcome to bring questions about your specific quiz to Office Hours (either the Instructor’s or the TAs’)!",
+    "crumbs": [
+      "Lectures/Course Schedule"
+    ]
   },
   {
     "objectID": "Pages/schedule.html#course-schedule",
     "href": "Pages/schedule.html#course-schedule",
     "title": "PSTAT 120B: Mathematical Statistics, I",
     "section": "Course Schedule",
-    "text": "Course Schedule\n\n\n\n\n\n\nNote\n\n\n\nThis page will be updated as we progress through the quarter; please check back regularly for updates!\n\n\n\n\n\n\n\n\nEmoji Meanings\n\n\n\n\n🧑‍🏫 = Lecture\n📖 = Textbook Reading\n📄 = Discussion Section Worksheet\n\n\n\nLast Updated: 7/3/24\n\n\n\n\n\n\n  \n    \n    \n    \n    \n    \n    \n  \n  \n    \n      WEEK\n      DATE\n      TEXTBOOK SECTIONS\n      TOPIC\n      CORRESPONDING SLIDE DECK\n      SECTION MATERIALS THINGS DUE\n    \n  \n  \n    1\n\nMon, Jun 24\n📖 Sections 5.3 - 5.4\n\n🧑‍🏫 Lec01: Conditional Distributions\n\n1: Conditional Distributions / Expectations\n\n\n    \nTue, Jun 25\n📖 Sections 5.3 - 5.4\n\n🧑‍🏫 Lec02: Conditional Expectations\n\n1: Conditional Distributions / Expectations\n\n📄 Wksht01 \n📄 Wksht01 Solns\n\n    \nWed, Jun 26\n📖 Section 5.11\n\n🧑‍🏫 Lec03: Transformations\n\n1: Cond. Dist / Expec  2: Transformations\n\nHW01 Due (only Problems 1 - 3 need to be submitted; please see Canvas Announcement)\n\n    \nThu, Jun 27\n📖 Sections 6.1 - 6.3\n\n🧑‍🏫 Lec04: Transformations\n\n2: Transformations\n\n📄 Wksht02\nQUIZ 01  (in-person)\n\n    2\n\nMon, Jul 1\n📖 Sections 6.4 - 6.5\n\n🧑‍🏫 Lec05: Transformations\n\n2: Transformations\n\n\n    \nTue, Jul 2\n\n🧑‍🏫 Lec06: Review/Catch-Up\n\n\nHW02 Due\n\n    \nWed, Jul 3\n\n🧑‍🏫 MIDTERM 1\n\n\n\n    \nThu, Jul 4\n\nHOLIDAY: No Lecture or Sections\n\n\n\n    3\n\nMon, Jul 8\n📖 Sections 6.2, 6.7\n\n🧑‍🏫 Lec07: Bivariate Transformations\n\n2.5: Multivariate Transformations\n\n\n    \nTue, Jul 9\n📖 Sections 7.1 - 7.2\n\n🧑‍🏫 Lec8: Multivariate Transformations / Sampling Distributions\n\n2.5: Multivariate Transformations\n\n📄 Wksht03 \n📄 Wksht03 Solns\n\n    \nWed, Jul 10\n📖 Sections 8.1 - 8.2\n\n🧑‍🏫 Lec9: Small-Sample Estimation\n\n3: Estimation\n\nHW03 Due\n\n    \nThu, Jul 11\n📖 Sections 8.2, 9.3\n\n🧑‍🏫 Lec10: Large-Sample Estimation\n\n3: Estimation\n\n📄 Wksht04 \n📄 Wksht04 Solns \nQUIZ 02  (in-person)\n\n    4\n\nMon, Jul 15\n📖 Sections 9.3, 7.3\n\n🧑‍🏫 Lec11: Consistency; CLT\n\n3: Estimation\n\n\n    \nTue, Jul 16\n\n🧑‍🏫 Lec12: Review/Catch-Up\n\n\nHW04 Due\n\n    \nWed, Jul 17\n\n🧑‍🏫 MIDTERM 2\n\n\n\n    \nThu, Jul 18\n📖 Section 9.6\n\n🧑‍🏫 Lec13: Method of Moments\n\n3: Estimation\n\n📄 Wksht05 \n📄 Wksht05 Solns\n\n    5\n\nMon, Jul 22\n📖 Section 9.7\n\n🧑‍🏫 Lec14: Maximum Likelihood Estimation\n\n3: Estimation\n\n\n    \nTue, Jul 23\n📖 Section 9.4, 9.5\n\n🧑‍🏫 Lec15: Sufficiency / MVUE\n\n4: Sufficiency\n\n📄 Wksht06 \n📄 Wksht06 Solns\n\n    \nWed, Jul 24\n📖 Sections 8.5 - 8.6, 8.8 - 8.9\n\n🧑‍🏫 Lec16: Confidence Intervals\n\n5: Confidence Intervals\n\nHW05 Due\n\n    \nThu, Jul 25\n📖 Sections 10.1 - 10.3\n\n🧑‍🏫 Lec17: Confidence Intervals / Hypothesis Testing\n\n5: Confidence Intervals / 6: Hypothesis Testing\n\n📄 Wksht07 \n📄 Wksht067Solns \nQUIZ 03  (in-person)\n\n    6\n\nMon, Jul 29\n📖 Sections 10.4, 10.6 - 10.7\n\n🧑‍🏫 Lec18: Hypothesis Testing\n\n6: Hypothesis Testing\n\n\n    \nTue, Jul 30\n📖 Sections 10.8 - 10.9\n\n🧑‍🏫 Lec19: Hypothesis Testing\n\n6: Hypothesis Testing\n\n📄 Wksht08 \nHW06 Due\n\n    \nWed, Jul 31\n📖 Sections 10.10 - 10.11\n\n🧑‍🏫 Lec20: Hypothesis Testing\n\n6: Hypothesis Testing\n\n\n    \nThu, Aug 1\n\n🧑‍🏫 Lec21: Review for Final\n\n\n📄 Wksht09\n\n  \n  \n  \n\n\n\n\n\nSome More Information\n\nMidterm exams take place on Wednesdays (twice throughout the quarter, on the dates listed in the calendar above).\nHomework assignments are due on Wednesdays in non-exam weeks, and on Tuesdays in exam weeks.\nQuizzes take place synchronously and in-person, during the first 20 minutes of Thursday Discussion Sections (on the dates outlined in the calendar above).\nI recommend reading the corresponding Textbook sections before coming to lecture."
+    "text": "Course Schedule\n\n\n\n\n\n\nNote\n\n\n\nThis page will be updated as we progress through the quarter; please check back regularly for updates!\n\n\n\n\n\n\n\n\nEmoji Meanings\n\n\n\n\n🧑‍🏫 = Lecture\n📖 = Textbook Reading\n📄 = Discussion Section Worksheet\n\n\n\nLast Updated: 7/3/24\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWEEK\nDATE\nTEXTBOOK SECTIONS\nTOPIC\nCORRESPONDING SLIDE DECK\nSECTION MATERIALS THINGS DUE\n\n\n\n\n1\nMon, Jun 24\n📖 Sections 5.3 - 5.4\n🧑‍🏫 Lec01: Conditional Distributions\n1: Conditional Distributions / Expectations\n\n\n\n\n\n\nTue, Jun 25\n📖 Sections 5.3 - 5.4\n🧑‍🏫 Lec02: Conditional Expectations\n1: Conditional Distributions / Expectations\n📄 Wksht01  📄 Wksht01 Solns\n\n\n\n\nWed, Jun 26\n📖 Section 5.11\n🧑‍🏫 Lec03: Transformations\n1: Cond. Dist / Expec  2: Transformations\nHW01 Due (only Problems 1 - 3 need to be submitted; please see Canvas Announcement)\n\n\n\n\nThu, Jun 27\n📖 Sections 6.1 - 6.3\n🧑‍🏫 Lec04: Transformations\n2: Transformations\n📄 Wksht02 QUIZ 01  (in-person)\n\n\n2\nMon, Jul 1\n📖 Sections 6.4 - 6.5\n🧑‍🏫 Lec05: Transformations\n2: Transformations\n\n\n\n\n\n\nTue, Jul 2\n\n\n🧑‍🏫 Lec06: Review/Catch-Up\n\n\nHW02 Due\n\n\n\n\nWed, Jul 3\n\n\n🧑‍🏫 MIDTERM 1\n\n\n\n\n\n\n\n\nThu, Jul 4\n\n\nHOLIDAY: No Lecture or Sections\n\n\n\n\n\n\n3\nMon, Jul 8\n📖 Sections 6.2, 6.7\n🧑‍🏫 Lec07: Bivariate Transformations\n2.5: Multivariate Transformations\n\n\n\n\n\n\nTue, Jul 9\n📖 Sections 7.1 - 7.2\n🧑‍🏫 Lec8: Multivariate Transformations / Sampling Distributions\n2.5: Multivariate Transformations\n📄 Wksht03  📄 Wksht03 Solns\n\n\n\n\nWed, Jul 10\n📖 Sections 8.1 - 8.2\n🧑‍🏫 Lec9: Small-Sample Estimation\n3: Estimation\nHW03 Due\n\n\n\n\nThu, Jul 11\n📖 Sections 8.2, 9.3\n🧑‍🏫 Lec10: Large-Sample Estimation\n3: Estimation\n📄 Wksht04  📄 Wksht04 Solns  QUIZ 02  (in-person)\n\n\n4\nMon, Jul 15\n📖 Sections 9.3, 7.3\n🧑‍🏫 Lec11: Consistency; CLT\n3: Estimation\n\n\n\n\n\n\nTue, Jul 16\n\n\n🧑‍🏫 Lec12: Review/Catch-Up\n\n\nHW04 Due\n\n\n\n\nWed, Jul 17\n\n\n🧑‍🏫 MIDTERM 2\n\n\n\n\n\n\n\n\nThu, Jul 18\n📖 Section 9.6\n🧑‍🏫 Lec13: Method of Moments\n3: Estimation\n📄 Wksht05  📄 Wksht05 Solns\n\n\n5\nMon, Jul 22\n📖 Section 9.7\n🧑‍🏫 Lec14: Maximum Likelihood Estimation\n3: Estimation\n\n\n\n\n\n\nTue, Jul 23\n📖 Section 9.4, 9.5\n🧑‍🏫 Lec15: Sufficiency / MVUE\n4: Sufficiency\n📄 Wksht06  📄 Wksht06 Solns\n\n\n\n\nWed, Jul 24\n📖 Sections 8.5 - 8.6, 8.8 - 8.9\n🧑‍🏫 Lec16: Confidence Intervals\n5: Confidence Intervals\nHW05 Due\n\n\n\n\nThu, Jul 25\n📖 Sections 10.1 - 10.3\n🧑‍🏫 Lec17: Confidence Intervals / Hypothesis Testing\n5: Confidence Intervals / 6: Hypothesis Testing\n📄 Wksht07  📄 Wksht067Solns  QUIZ 03  (in-person)\n\n\n6\nMon, Jul 29\n📖 Sections 10.4, 10.6 - 10.7\n🧑‍🏫 Lec18: Hypothesis Testing\n6: Hypothesis Testing\n\n\n\n\n\n\nTue, Jul 30\n📖 Sections 10.8 - 10.9\n🧑‍🏫 Lec19: Hypothesis Testing\n6: Hypothesis Testing\n📄 Wksht08  HW06 Due\n\n\n\n\nWed, Jul 31\n📖 Sections 10.10 - 10.11\n🧑‍🏫 Lec20: Hypothesis Testing\n6: Hypothesis Testing\n\n\n\n\n\n\nThu, Aug 1\n\n\n🧑‍🏫 Lec21: Review for Final\n\n\n📄 Wksht09\n\n\n\n\n\n\n\n\nSome More Information\n\nMidterm exams take place on Wednesdays (twice throughout the quarter, on the dates listed in the calendar above).\nHomework assignments are due on Wednesdays in non-exam weeks, and on Tuesdays in exam weeks.\nQuizzes take place synchronously and in-person, during the first 20 minutes of Thursday Discussion Sections (on the dates outlined in the calendar above).\nI recommend reading the corresponding Textbook sections before coming to lecture.",
+    "crumbs": [
+      "Lectures/Course Schedule"
+    ]
+  },
+  {
+    "objectID": "Pages/exams.html",
+    "href": "Pages/exams.html",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "",
+    "text": "Information Document (PLEASE READ): Link\nFinal Exam Coversheet: .PDF\nPractice Problems: Part 1 Part 2\n\nSolutions: Part 1 Part 2 (Please feel free to post on Discord if you believe there are typos)\n\nFinal Exam:  Green Version, Blank Green Version, Solutions\n\nPlease Note: It was clarified during the exam that problem 3(d) is asking for the maximum likelihood estimator, not the method of moments estimator.",
+    "crumbs": [
+      "Exam Information"
+    ]
+  },
+  {
+    "objectID": "Pages/exams.html#final-examination",
+    "href": "Pages/exams.html#final-examination",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "",
+    "text": "Information Document (PLEASE READ): Link\nFinal Exam Coversheet: .PDF\nPractice Problems: Part 1 Part 2\n\nSolutions: Part 1 Part 2 (Please feel free to post on Discord if you believe there are typos)\n\nFinal Exam:  Green Version, Blank Green Version, Solutions\n\nPlease Note: It was clarified during the exam that problem 3(d) is asking for the maximum likelihood estimator, not the method of moments estimator.",
+    "crumbs": [
+      "Exam Information"
+    ]
+  },
+  {
+    "objectID": "Pages/exams.html#midterm-2",
+    "href": "Pages/exams.html#midterm-2",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Midterm 2",
+    "text": "Midterm 2\n\nInformation Document (PLEASE READ): Link\nMidterm 2 Coversheet: .PDF\nPractice Problems: .PDF\n\nSolutions: Link\n\nMidterm 2: Version B, Blank Version B, Solutions",
+    "crumbs": [
+      "Exam Information"
+    ]
+  },
+  {
+    "objectID": "Pages/exams.html#midterm-1",
+    "href": "Pages/exams.html#midterm-1",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Midterm 1",
+    "text": "Midterm 1\n\nInformation Document (PLEASE READ): Link\nMidterm 1 Coversheet: .PDF\nPractice Problems: .PDF\n\nSolutions: Link\n\nMidterm 1: Version A, Blank Version A, Solutions",
+    "crumbs": [
+      "Exam Information"
+    ]
+  },
+  {
+    "objectID": "Pages/policies.html",
+    "href": "Pages/policies.html",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "",
+    "text": "Welcome to PSTAT 120B! I am very excited to be your instructor this quarter. Our journey together will take us through the wonders of mathematical statistics, which seeks to form a logically and rigorously sound framework to discuss more advanced statistical topics. Looking forward to a great quarter with y’all! – Ethan",
+    "crumbs": [
+      "Syllabus/Policies"
+    ]
+  },
+  {
+    "objectID": "Pages/policies.html#pdfgraphical-syllabus",
+    "href": "Pages/policies.html#pdfgraphical-syllabus",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "PDF/Graphical Syllabus",
+    "text": "PDF/Graphical Syllabus\nIf you prefer a PDF version of this syllabus (including a graphical overview of policies, etc.), please see the following document:\n\nDownload PDF file.",
+    "crumbs": [
+      "Syllabus/Policies"
+    ]
+  },
+  {
+    "objectID": "Pages/policies.html#course-description",
+    "href": "Pages/policies.html#course-description",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Course Description",
+    "text": "Course Description\nThe official description of this course, from the UCSB Course Catalog, is:\n\nDistribution of sample mean and sample variance; t, chi-squared and F distributions; summarizing data by statistics and graphs; estimation theory for single samples: sufficiency, efficiency, consistency, method of moments, maximum likelihood; hypothesis testing: likelihood ratio test; confidence intervals.\n\nThis quarter, we will also discuss conditional expectations, to set you up for success in your future PSTAT courses (like PSTAT 160A/B, 131/231, 174/274, etc.)",
+    "crumbs": [
+      "Syllabus/Policies"
+    ]
+  },
+  {
+    "objectID": "Pages/policies.html#prerequisites",
+    "href": "Pages/policies.html#prerequisites",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nThe only prerequisite for this course is a grade of C or higher in PSTAT 120A (Calculus-based probability). We will be using probability extensively this quarter, so please make sure to brush up on your probability knowledge before starting this course.",
+    "crumbs": [
+      "Syllabus/Policies"
+    ]
+  },
+  {
+    "objectID": "Pages/policies.html#textbook",
+    "href": "Pages/policies.html#textbook",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Textbook",
+    "text": "Textbook\nThere is only one required textbook for this course:\n\nMathematical Statistics with Applications, 7th edition, by Dennis Wackerly, William Mendenhall, Richard L. Scheaffer.\n\nWe will (roughly) cover chapters 6 - 10 and parts of Chapter 14. Readings will be assigned; I ask that you please complete the readings before lecture.\nPlease note: though the lecture notes I post to the course website are designed to be largely self-contained, studies have shown great benefit to seeing material presented in several different ways. This is why textbooks are very useful, and an integral part of the learning process!",
+    "crumbs": [
+      "Syllabus/Policies"
+    ]
+  },
+  {
+    "objectID": "Pages/policies.html#course-components",
+    "href": "Pages/policies.html#course-components",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Course Components",
+    "text": "Course Components\n\nHomework: there will be one homework assignment due per week, on either Tuesday or Wednesday (please see the tentative schedule). These will be submitted on Gradescope.\nQuizzes: there will be 3 quizzes this quarter, administered once per non-exam week. Quizzes will be administered synchronously and in-person, at the start of Thursday Discussion Sections, and will last for 20 minutes.\nExams: there will be a total of three exams this quarter: two midterms, and one final exam. The dates and locations for the exams are:\n\n\n\n\n\n\n\nExam Dates\n\n\n\n\nMidterm 1: Wednesday, July 3, 2024 during Lecture, in the Lecture Hall\nMidterm 2: Wednesday, July 17, 2024 during Lecture, in the Lecture Hall\nFinal Exam: Friday, August 2, 2024; 4 - 7pm in ILP 2302 [please note that this is DIFFERENT than our usual classroom]",
+    "crumbs": [
+      "Syllabus/Policies"
+    ]
+  },
+  {
+    "objectID": "Pages/policies.html#late-work-accommodations",
+    "href": "Pages/policies.html#late-work-accommodations",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Late Work / Accommodations",
+    "text": "Late Work / Accommodations\nUnfortunately, we cannot accept any late submissions for any assignments (homework, quizzes, exams). Instead:\n\nYour lowest two (2) HW scores and lowest quiz score will be dropped\nThe lower of your two midterm scores will be dropped or replaced with the average of your remaining midterm score and your final exam score; whichever gives you a higher overall final grade (though you must take all three exams; failure to do so will result in a grade of ‘F’)\n\nPlease also note that our Final Exam is scheduled to take place on the final Friday of the quarter. If this Final Exam time conflicts with another Final Exam you are taking, please reach out to me (Ethan) ASAP to coordinate.",
+    "crumbs": [
+      "Syllabus/Policies"
+    ]
+  },
+  {
+    "objectID": "Pages/policies.html#course-grades",
+    "href": "Pages/policies.html#course-grades",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Course Grades",
+    "text": "Course Grades\nYour final grade in the course will be computed according to the following scheme:\n\n\n\nHomework\nQuizzes\nMidterms\nFinal Exam\n\n\n\n\n20%\n15%\n15% each\n35%\n\n\n\nFurthermore, your final letter grade will be computed according the the following scheme:\n\nA– – A+: [90, 100]\nB– – B+: [80, 90)\nC– – C+: [70, 80)\nD– – D+: [60, 70)\nF: [0, 60)\n\nCutoffs between plusses and minuses will be determined at the end of the quarter.\nI have elected to adopt an uncurved grading scheme to eliminate any sense of “competition” among students; I highly encourage you all to collaborate with and uplift each other! Furthermore, I will certainly consider adjusting the cutoffs at the end of the quarter if necessary. (I will, however, not be able to tell if or how such adjustments will be made until the end of the quarter.) Please note: failure to take any of the three exams without first making prior arrangements with the Course Staff will result in an automatic grade of ‘F’.",
+    "crumbs": [
+      "Syllabus/Policies"
+    ]
+  },
+  {
+    "objectID": "Pages/policies.html#academic-integrity",
+    "href": "Pages/policies.html#academic-integrity",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Academic Integrity",
+    "text": "Academic Integrity\nAs a member of the UCSB community, it is expected that you will act with academic integrity. This means, among other things, that the work you submit should be entirely your own and not copied from any external sources. Collaboration on homework assignments is perfectly acceptable (even encouraged) but the work you submit should still be your own; you can’t have someone else write up solutions for you, nor can you consult sites like Chegg, CourseHero, ChatGPT, etc. Anyone found guilty of academic misconduct will be reported to the Academic Senate, and will receive at minimum a failing grade on the assignment in question; actions may also include failing the course, and marks being made on permanent records. Depending on the severity of the infraction, expulsion is also a possibility.\nBasically, don’t cheat- please! If you’re ever struggling with course material, please come talk to me or the TAs. We are truly here for you, and want only the best for you!",
+    "crumbs": [
+      "Syllabus/Policies"
+    ]
+  },
+  {
+    "objectID": "Pages/policies.html#disabled-students-program-dsp",
+    "href": "Pages/policies.html#disabled-students-program-dsp",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Disabled Students Program (DSP)",
+    "text": "Disabled Students Program (DSP)\nIf you have a disability, or otherwise require accommodations for the exams and/or quizzes please reach out to the Disabled Students Program (DSP) ASAP to ensure your request(s) for accommodation can be processed. Please note that we cannot honor any requests for accommodations unless they come to us from DSP directly.",
+    "crumbs": [
+      "Syllabus/Policies"
+    ]
+  },
+  {
+    "objectID": "Pages/policies.html#sections",
+    "href": "Pages/policies.html#sections",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Sections",
+    "text": "Sections\nThough we will not be tracking Section attendance this quarter, I highly encourage you to attend Section. During Section, you will work through a series of problems that are designed to help you learn the course material.",
+    "crumbs": [
+      "Syllabus/Policies"
+    ]
+  },
+  {
+    "objectID": "Pages/policies.html#communication",
+    "href": "Pages/policies.html#communication",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Communication",
+    "text": "Communication\nPlease note that we (the course staff) request you refrain from emailing us except in case of extreme emergency (it is up to you to decide what is an ‘emergency’). Please bring all of your questions to the course staff during either Office Hours or after Lecture/Section. We also encourage you to make use of our Discord Server.\n\n\n\n\n\n\n\nTopic\nRedirect to…\n\n\n\n\nChecking answers\nOffice hours or Discord\n\n\nClarifying assignment content\nOffice hours or Discord\n\n\nAssignment submission\nGradescope\n\n\nRe-evaluation request\nGradescope\n\n\nQuestion about missing grades\nFill Out This Form",
+    "crumbs": [
+      "Syllabus/Policies"
+    ]
+  },
+  {
+    "objectID": "Pages/policies.html#course-resourcessites",
+    "href": "Pages/policies.html#course-resourcessites",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Course Resources/Sites",
+    "text": "Course Resources/Sites\nThere are a couple of important sites you should be aware of for this course:\n\nMain Course Site: https://pstat120b.github.io This is the main site for this course this quarter - lecture, section, etc. material will be posted here. Please note that you do not need any special login to access this site - it is publicly accessible from anywhere that has internet access.\nGradescope: https://www.gradescope.com/courses/769316 Please use Gradescope for all assignment submissions. You will also take your quizzes through Gradescope.\nCanvas:  We will primarily be using Canvas for grading purposes, and announcements - course material will not, in general, be posted to Canvas.",
+    "crumbs": [
+      "Syllabus/Policies"
+    ]
+  },
+  {
+    "objectID": "Pages/policies.html#section-switching",
+    "href": "Pages/policies.html#section-switching",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Section Switching",
+    "text": "Section Switching\nIf you want to switch sections unofficially (we do not have the ability to switch your official enrollment through GOLD), please follow the steps at this link. Any requests to switch sections that do not adhere to the guidelines posted at that link will be ignored.",
+    "crumbs": [
+      "Syllabus/Policies"
+    ]
+  },
+  {
+    "objectID": "Pages/policies.html#modality",
+    "href": "Pages/policies.html#modality",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Modality",
+    "text": "Modality\nPlease note that this course is fully in-person and synchronous; there will not be any lecture recordings made or posted, nor will Sections be recorded or offered over Zoom. Please make every effort to attend lectures and Sections!",
+    "crumbs": [
+      "Syllabus/Policies"
+    ]
+  },
+  {
+    "objectID": "Pages/policies.html#disclaimer",
+    "href": "Pages/policies.html#disclaimer",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Disclaimer",
+    "text": "Disclaimer\nThe instructor reserves the right to modify this syllabus if he deems such modifications academically advisable. Such modifications, should they occur, will be announced publicly.",
+    "crumbs": [
+      "Syllabus/Policies"
+    ]
+  },
+  {
+    "objectID": "Pages/policies.html#learning-outcomes",
+    "href": "Pages/policies.html#learning-outcomes",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nMy main (and somewhat broad) goal for this course is:\n\nTo help introduce you to the theoretical underpinnings of mathematical statistics and the statistical way of thinking/writing\n\nTo this end, I have devised the following learning outcomes. By the end of this course, you should be able to:\n\nUnderstand key theorems and results (e.g. law of iterated expectations, central limit theorem, weak and strong laws of large numbers) and how they factor in to the broader statistical framework\nApply common estimation techniques to simulated and real data, and accurately interpret/assess the results (using concepts like bias, consistency, etc.)\nThink critically about the assumptions needed to implement various statistical procedures (and to question results when such assumptions are violated)\nAccurately express your beliefs and conclusions about problems and concepts in a mathematically and statistically rigorous manner",
+    "crumbs": [
+      "Syllabus/Policies"
+    ]
+  },
+  {
+    "objectID": "Pages/policies.html#affirmations",
+    "href": "Pages/policies.html#affirmations",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Affirmations",
+    "text": "Affirmations\nI firmly believe that each and every one of you belongs here, at this university, in your major, and in this course. As such, I am committed to fostering a sense of inclusivity, tolerance, and respect; I ask that you please join me in this commitment. This includes things like: arriving to class and sections on time (or arriving/departing quietly if you need to arrive late/leave early), refraining from using derogatory or other hurtful language, and respecting your classmates’ lived names and pronouns.\nYou can update your preferred name and pronouns using UCSB’s Identity Services Directory Editor, and read more about how UCSB uses Lived and Legal Names at this link. I am committed to using everyone’s preferred names and pronouns, so please don’t hesitate to correct me if I accidentally misidentify you.",
+    "crumbs": [
+      "Syllabus/Policies"
+    ]
+  },
+  {
+    "objectID": "Pages/policies.html#some-general-tips-for-success",
+    "href": "Pages/policies.html#some-general-tips-for-success",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Some General Tips for Success",
+    "text": "Some General Tips for Success\nForm study groups\nStatistics is not meant to be a lonely field! There is much we can learn from one another, and it can be an incredibly enlightening experience to discuss problems and ideas with one another. (Just make sure you don’t violate any of the Academic Integrity points listed above)\nBe mindful of how you’re solving problems\nIt’s tempting to start a problem, get about halfway through, and then default to looking at the solutions or a similar worked-out example. This is not an effective way to learn! Rather, start by working through them fully and without looking at similar worked-out problems or solutions. Then you can compare your answers, and identify any areas for potential further study. Finally, return to the problem after a few days and see if you still get stuck in the same places as you did the first time.\nStart things early!\nMake sure you’re giving yourself enough time to complete the homework assignments, study for quizzes/exams, and process the course material. I’d recommend creating a weekly schedule for yourself, and allocating time each day for PSTAT 120B material (whether that be working through the homework, studying for a quiz, or just reading lecture slides/the textbook).\nAttend office hours (TA and Instructor) regularly\nEven if you don’t have a specific question, you’re always more than welcome to sit in on Office Hours and listen to other people’s questions. (Sometimes, doing so will help you formulate your own questions!)\nAttend lectures and Discussion Sections.\nIt’s true that we do not have an attendance policy, but please don’t let yourselves skimp on attendance. Studies show that regular exposure is the best way to learn material, and there really is no substitute for going to Section and Lecture. Also, while you’re in Lecture, take your own notes! Even the act of writing things down and having to synthesize what you think is important information can help you process and learn the material in real time.\nDon’t be too hard on yourself!\nThough a little stress can be a good motivating factor for some, please don’t stress yourself out too much. Your performance in this course is not an evaluation of who you are as a person!",
+    "crumbs": [
+      "Syllabus/Policies"
+    ]
+  },
+  {
+    "objectID": "Pages/Resources/notation.html",
+    "href": "Pages/Resources/notation.html",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "",
+    "text": "I am sympathetic to the fact that, at times, the notation used in statistics can seem a bit overwhelming. As such, I’ve crafted this page to outline a few key notations and symbols used in Statistics - I encourage you to refer to this page often! (Of course, please feel free to ask me directly in Lecture or Office Hours if I use notation that is unfamiliar to you.)",
+    "crumbs": [
+      "Resources",
+      "Statistical Notation"
+    ]
+  },
+  {
+    "objectID": "Pages/Resources/notation.html#greek-alphabet",
+    "href": "Pages/Resources/notation.html#greek-alphabet",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Greek Alphabet",
+    "text": "Greek Alphabet\n\n\n\nTable 1: The Greek Alphabet\n\n\n\n\n\nFirst Half\n\n\nUppercase\nLowercase\nName\n\n\n\n\nA\n\\(\\alpha\\)\nalpha\n\n\nB\n\\(\\beta\\)\nbeta\n\n\n\\(\\Gamma\\)\n\\(\\gamma\\)\ngamma\n\n\n\\(\\Delta\\)\n\\(\\delta\\)\ndelta\n\n\nE\n\\(\\varepsilon\\)\nepsilon\n\n\nZ\n\\(\\zeta\\)\nzeta\n\n\nH\n\\(\\eta\\)\nnu\n\n\n\\(\\Theta\\)\n\\(\\theta\\) / \\(\\vartheta\\)\ntheta\n\n\nI\n\\(\\iota\\)\niota\n\n\nK\n\\(\\kappa\\)\nkappa\n\n\n\\(\\Lambda\\)\n\\(\\lambda\\)\nlambda\n\n\nM\n\\(\\mu\\)\nmu\n\n\n\n\n\n\nSecond Half\n\n\nUppercase\nLowercase\nName\n\n\n\n\nN\n\\(\\nu\\)\nnu\n\n\n\\(\\Xi\\)\n\\(\\xi\\)\nxi\n\n\nO\n\\(\\omicron\\)\nomicron\n\n\n\\(\\Pi\\)\n\\(\\pi\\)\npi\n\n\nP\n\\(\\rho\\)\nrho\n\n\n\\(\\Sigma\\)\n\\(\\sigma\\) / \\(\\varsigma\\)\nsigma\n\n\nT\n\\(\\tau\\)\ntau\n\n\nY\n\\(\\upsilon\\)\nupsilon\n\n\n\\(\\Phi\\)\n\\(\\phi\\)\nphi\n\n\nX\n\\(\\chi\\)\nchi\n\n\n\\(\\Psi\\)\n\\(\\psi\\)\npsi\n\n\n\\(\\Omega\\)\n\\(\\omega\\)\nomega\n\n\n\n\n\n\n\n\n\nSome Common Statistical Uses\n\n\\(\\mu\\): often used to denote mean/expected value\n\\(\\sigma\\): often used to denote standard deviations\n\\(\\theta\\): often used as a placeholder for an arbitrary parameter\n\\(\\lambda, \\ \\rho\\): often used to denote rates\n\\(\\nu\\): often used to denote the degrees of freedom of a \\(\\chi^2\\) distribution\n\\(\\Gamma(t)\\): the Gamma function \\[ \\Gamma(r) := \\int_{0}^{\\infty} x^{r - 1} e^{-x} \\ \\mathrm{d}x \\]\n\\(\\psi(t)\\): the Digamma function: \\[ \\psi(t) := \\frac{\\mathrm{d}}{\\mathrm{d}t} \\ln[\\Gamma(t)] = \\frac{\\Gamma'(t)}{\\Gamma(t)} \\]\nSometimes, related parameters will be named after consecutive letters in the alphabet. For instance, we may denote the mean of a random variable \\(X\\) by \\(\\mu\\) and the mean of another random variable \\(Y\\) by \\(\\nu\\), and \\(\\mu\\) and \\(\\nu\\) appear consecutively in the Greek alphabet. Similarly for variances; \\(\\sigma^2\\) and \\(\\tau^2\\) are commonly used to denote variances.",
+    "crumbs": [
+      "Resources",
+      "Statistical Notation"
+    ]
+  },
+  {
+    "objectID": "Pages/Resources/notation.html#other-notations",
+    "href": "Pages/Resources/notation.html#other-notations",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Other Notations",
+    "text": "Other Notations\n\nIn this class, I will often write \\(X \\sim f_X\\) to mean “let \\(X\\) be a random variable with density function \\(f_X(x)\\)”, and \\(X \\sim F_X\\) to mean “let \\(X\\) be a random variable with distribution function \\(F_X(x)\\).”\nThe symbol \\(\\forall\\) is called the universal quantifier, and is essentially a mathematical way of writing “for all” or “for every”. As an example: \\[ (\\forall x \\in \\mathbb{R})[f_X(x) \\geq 0] \\] is read “for every real number \\(x\\), the value of \\(f_X(x)\\) will be nonnegative”.\nThe symbol \\(\\exists\\) is called the existential quantifier, and is essentially a mathematical way of writing “there exists” or “for at least one”. As an example: \\[ (\\exists x \\in \\mathbb{R})[x^2 = 2] \\] is read “there exists a real number \\(x\\) whose square is 2”.\nI often use the symbol \\(:=\\) to mean “definitionally equal to”. For example, given a random variable \\(Y\\), I’ll often write \\(U := Y^2\\) to mean “let \\(U\\) be another random variable that is, by definition, equal to the square of \\(Y\\).”\nI often use the symbol \\(\\stackrel{!}{=}\\) to mean “set equal to”. For example, solving \\(f'(x) \\stackrel{!}{=} 0\\) for \\(x\\) gives us the set of critical values for the function \\(f(\\cdot)\\).",
+    "crumbs": [
+      "Resources",
+      "Statistical Notation"
+    ]
+  },
+  {
+    "objectID": "Pages/course_staff.html",
+    "href": "Pages/course_staff.html",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "",
+    "text": "InstructorTeaching Assistants\n\n\nINSTRUCTOR: Ethan P. Marzban (He/Him)\n\nHello! My name is Ethan P. Marzban (he/him), and I’m currently a PhD student in the Department of Statistics here at UCSB. My research interests span a variety of topics, including mathematical statistics, Bayesian statistics, and Stats/Data Science Education. In my free time, I enjoy playing the piano, drinking boba, and talking about cats. I’m super excited to be your instructor this quarter!\n\n\n\nOffice Hours\nLocation\n\n\n\n\nWednesdays, 3 - 4:30pm\nGIRV 2123\n\n\nMondays, 3:30pm - 4:30pm\nZoom\n\n\n\nPlease Note: On Monday July 8 I will have to reschedule my OH to a later time (TBD).\n\n\n\n\n\n\n\n\n\n\n\n\nName\nSections\nOH\n\n\n\nHyuk Jean Choe (he/him)\n2 - 2:50 pm (ILP 3105)  3 - 3:50 pm (ILP 3207)\nT, 9am - 12pm (Building 434, Room 113)\n\n\n\nMinwoo Park (he/him)\n4 - 4:50 pm (ILP 3205)  5 - 5:50 pm (LSB 1101)\nM 8am - 9am (SH 5432S)  T, R 6pm - 7pm (SH 5432S)",
+    "crumbs": [
+      "Course Staff"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nPSTAT 120B: Mathematical Statistics, I\n",
+    "section": "",
+    "text": "PSTAT 120B: Mathematical Statistics, I\n\n\nSummer Session A, 2024  Instructor: Ethan P. Marzban\n\n\n\nWelcome to the course site for the Summer Session A iteration of PSTAT 120B: Mathematical Statistics, with Ethan P. Marzban! Here, you will find all material associated with the course. Feel free to use this material however you like; just please include attribution to me (Ethan).\n\n\nClick Here to access the course site for the iteration of PSTAT 120A I taught a few years back.\n\n\nThis course has concluded. Here is a distribution of final letter grades I (Ethan) issued:\n\nIn the interest of transparency, I am also including summaries from the Course Evaluations I received this quarter: Click Here",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "Pages/Resources/lec_supp.html",
+    "href": "Pages/Resources/lec_supp.html",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "",
+    "text": "Solutions to a few Chalkboard Examples: .PDF",
+    "crumbs": [
+      "Resources",
+      "Lecture Supplements"
+    ]
+  },
+  {
+    "objectID": "Pages/Resources/lec_supp.html#lecture-03-wed-62624",
+    "href": "Pages/Resources/lec_supp.html#lecture-03-wed-62624",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "",
+    "text": "Solutions to a few Chalkboard Examples: .PDF",
+    "crumbs": [
+      "Resources",
+      "Lecture Supplements"
+    ]
+  },
+  {
+    "objectID": "Pages/Resources/lec_supp.html#lecture-02-tues.-62524",
+    "href": "Pages/Resources/lec_supp.html#lecture-02-tues.-62524",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "Lecture 02: Tues. 6/25/24",
+    "text": "Lecture 02: Tues. 6/25/24\n\nSolutions to Chalkboard Example: .PDF\n\nPlot of \\(f(x, y) = \\lambda^3 x e^{-\\lambda y} \\cdot 1 \\! \\! \\! \\! 1_{\\{0 &lt; x &lt; y &lt; \\infty\\}}\\) for \\(\\lambda = 0.8\\):",
+    "crumbs": [
+      "Resources",
+      "Lecture Supplements"
+    ]
+  },
+  {
+    "objectID": "Pages/Resources/120arev.html",
+    "href": "Pages/Resources/120arev.html",
+    "title": "PSTAT 120B: Mathematical Statistics, I",
+    "section": "",
+    "text": "Review Document I highly encourage you to read through this document, and to consult your PSTAT 120A notes if there are any topics that you are unfamiliar with.\nReview Problems Please consider working through these problems to ensure you have a solid foundation in probability.\n\nSolutions: .PDF",
+    "crumbs": [
+      "Resources",
+      "PSTAT 120A Review"
+    ]
   },
   {
     "objectID": "Pages/lectures.html",
@@ -49,227 +391,80 @@
     "text": "Topic 0: An Introduction to the Course \nTopic 1: Conditional Distributions / Expectations \nTopic 2: Part 1\n\nBackup Full (w/ Animation)\nFULL (w/ Animation)\nFULL MULTIVARIATE (w/ Animation)\n\nTopic 3: Part 1\nTopic 3: Part 2\nTopic 3: Part 3\nTopic 3: Part 4\nTopic 3: Part 5\nTopic 4\nTopic 5, Part 1\nTopic 5, Part 2\nTopic 6, Part 1\nTopic 6, Part 2\nTopic 7, Conclusion"
   },
   {
-    "objectID": "Pages/Resources/120arev.html",
-    "href": "Pages/Resources/120arev.html",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "",
-    "text": "Review Document I highly encourage you to read through this document, and to consult your PSTAT 120A notes if there are any topics that you are unfamiliar with.\nReview Problems Please consider working through these problems to ensure you have a solid foundation in probability.\n\nSolutions: .PDF"
+    "objectID": "Pages/Sp25/wk01.html#probability-spaces",
+    "href": "Pages/Sp25/wk01.html#probability-spaces",
+    "title": "Week 1 Discussion Section",
+    "section": " Probability Spaces",
+    "text": "Probability Spaces\n\nProbability Space: \\((\\Omega, \\F, \\Prob)\\)\n\nOutcome Space: \\(\\Omega\\); enumeration of all possible outcomes of an experiment\n\nRandom Variable: mapping from \\(\\Omega\\) to \\(\\R\\).\n\nWe typically use capital letters later in the alphabet (e.g. X, Y, Z) to denote random variables\nSupport: \\(X(\\Omega)\\); the set of all possible values mapped to\nFinite or countable support \\(\\implies\\) discrete; uncountable \\(\\implies\\) continuous"
   },
   {
-    "objectID": "Pages/Resources/lec_supp.html",
-    "href": "Pages/Resources/lec_supp.html",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "",
-    "text": "Solutions to a few Chalkboard Examples: .PDF"
+    "objectID": "Pages/Sp25/wk01.html#random-variables",
+    "href": "Pages/Sp25/wk01.html#random-variables",
+    "title": "Week 1 Discussion Section",
+    "section": " Random Variables",
+    "text": "Random Variables\nDiscrete Case\n\nProbability Mass Function (PMF): \\(p_X(k) := \\Prob(X = k)\\)\n\nProbabilities are found by summing the PMF: \\(\\Prob(X \\in B) = \\sum_{k \\in B}p_X(k)\\)\n\nCumulative Mass Function (CMF): \\(F_X(x) := \\Prob(X \\leq x)\\), calculated as \\(F_X(x) = \\sum_{k \\leq x} p_X(k)\\)\nExpectation: \\(\\E[X] := \\sum_{k} k p_X(k)\\)\n\nA measure of the “center” of the distribution\n\nLOTUS (Law of the Unconscious Statistician): \\(\\E[g(X)] := \\sum_{k} g(k) p_X(k)\\)\nVariance: \\(\\Var(X) := \\E\\left[ (X - \\E[X])^2 \\right]  = \\E[X^2] - (\\E[X])^2\\)\n\nA measure of the “spread” of the distribution"
   },
   {
-    "objectID": "Pages/Resources/lec_supp.html#lecture-03-wed-62624",
-    "href": "Pages/Resources/lec_supp.html#lecture-03-wed-62624",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "",
-    "text": "Solutions to a few Chalkboard Examples: .PDF"
+    "objectID": "Pages/Sp25/wk01.html#random-variables-1",
+    "href": "Pages/Sp25/wk01.html#random-variables-1",
+    "title": "Week 1 Discussion Section",
+    "section": " Random Variables",
+    "text": "Random Variables\nContinuous Case\n\nProbability Density Function (PDF): \\(f_X(x)\\) such that \\(\\Prob(X \\in B) = \\int_{B} f_X(x) \\ \\mathrm{d}x\\)\n\nAny function that is nonnegative and integrates to unity is a valid PDF.\n\nCumulative Distribution Function (CDF): \\(F_X(x) := \\Prob(X \\leq x)\\), calculated as \\(F_X(x) = \\int_{-\\infty}^{x} f_X(t) \\ \\mathrm{d}t\\)\nExpectation: \\(\\E[X] := \\int_{\\R} x f_X(x) \\ \\mathrm{d}x\\)\nLOTUS (Law of the Unconscious Statistician): \\(\\E[g(X)] := \\int_{\\R} g(x) f_X(x) \\ \\mathrm{d}x\\)\nVariance: \\(\\Var(X) := \\E\\left[ (X - \\E[X])^2 \\right]  = \\E[X^2] - (\\E[X])^2\\)"
   },
   {
-    "objectID": "Pages/Resources/lec_supp.html#lecture-02-tues.-62524",
-    "href": "Pages/Resources/lec_supp.html#lecture-02-tues.-62524",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Lecture 02: Tues. 6/25/24",
-    "text": "Lecture 02: Tues. 6/25/24\n\nSolutions to Chalkboard Example: .PDF\n\nPlot of \\(f(x, y) = \\lambda^3 x e^{-\\lambda y} \\cdot 1 \\! \\! \\! \\! 1_{\\{0 &lt; x &lt; y &lt; \\infty\\}}\\) for \\(\\lambda = 0.8\\):"
+    "objectID": "Pages/Sp25/wk01.html#moment-generating-function",
+    "href": "Pages/Sp25/wk01.html#moment-generating-function",
+    "title": "Week 1 Discussion Section",
+    "section": " Moment-Generating Function",
+    "text": "Moment-Generating Function\n\n\n\n\n\n\nDefinition: Moment-Generating Function\n\n\nThe moment-generating function (MGF) of a random variable X is defined as \\[ M_X(t) := \\E[e^{tX}] \\]\n\n\n\n\nWhy the name? \\(M_X^{(n)}(0) = \\E[X^n]\\).\nNote: for every random variable, \\(M_X(0) = 1\\). But, it is not always the case that the MGF is continuous at or near zero.\n\nIf it is continuous in a small neighborhood including zero, it uniquely determines a distribution."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\nPSTAT 120B: Mathematical Statistics, I\n",
-    "section": "",
-    "text": "PSTAT 120B: Mathematical Statistics, I\n\n\nSummer Session A, 2024  Instructor: Ethan P. Marzban\n\n\n\nWelcome to the course site for the Summer Session A iteration of PSTAT 120B: Mathematical Statistics, with Ethan P. Marzban! Here, you will find all material associated with the course. Feel free to use this material however you like; just please include attribution to me (Ethan).\n\n\nClick Here to access the course site for the iteration of PSTAT 120A I taught a few years back.\n\n\nThis course has concluded. Here is a distribution of final letter grades I (Ethan) issued:\n\nIn the interest of transparency, I am also including summaries from the Course Evaluations I received this quarter: Click Here"
+    "objectID": "Pages/Sp25/wk01.html#exercise-1",
+    "href": "Pages/Sp25/wk01.html#exercise-1",
+    "title": "Week 1 Discussion Section",
+    "section": " Exercise 1",
+    "text": "Exercise 1\nThe Gamma Distribution\n\n\n\n\n\n\nExercise 1\n\n\nA random variable X is said to follow the Gamma Distribution with parameters \\(\\alpha\\) and \\(\\beta\\), notated \\(X \\sim \\mathrm{Gamma}(\\alpha, \\beta)\\), if it has density given by \\[ f_X(x) = \\begin{cases} c \\cdot x^{\\alpha - 1} e^{-x / \\beta} & \\text{if } x \\geq 0 \\\\ 0 & \\text{otherwise} \\\\ \\end{cases} \\] (Note that this might be slightly different than the version of the Gamma distribution you saw in PSTAT 120A.)\n\n\nFind the value of the constant c.\nFind the MGF of X, and use this to compute \\(\\E[X]\\)."
   },
   {
-    "objectID": "Pages/course_staff.html",
-    "href": "Pages/course_staff.html",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "",
-    "text": "InstructorTeaching Assistants\n\n\nINSTRUCTOR: Ethan P. Marzban (He/Him)\n\nHello! My name is Ethan P. Marzban (he/him), and I’m currently a PhD student in the Department of Statistics here at UCSB. My research interests span a variety of topics, including mathematical statistics, Bayesian statistics, and Stats/Data Science Education. In my free time, I enjoy playing the piano, drinking boba, and talking about cats. I’m super excited to be your instructor this quarter!\n\n\n\nOffice Hours\nLocation\n\n\n\n\nWednesdays, 3 - 4:30pm\nGIRV 2123\n\n\nMondays, 3:30pm - 4:30pm\nZoom\n\n\n\nPlease Note: On Monday July 8 I will have to reschedule my OH to a later time (TBD).\n\n\n\n\n\n\n\n\n\n\n\n\nName\nSections\nOH\n\n\n\nHyuk Jean Choe (he/him)\n2 - 2:50 pm (ILP 3105)  3 - 3:50 pm (ILP 3207)\nT, 9am - 12pm (Building 434, Room 113)\n\n\n\nMinwoo Park (he/him)\n4 - 4:50 pm (ILP 3205)  5 - 5:50 pm (LSB 1101)\nM 8am - 9am (SH 5432S)  T, R 6pm - 7pm (SH 5432S)"
+    "objectID": "Pages/Sp25/wk01.html#the-gamma-distribution-1",
+    "href": "Pages/Sp25/wk01.html#the-gamma-distribution-1",
+    "title": "Week 1 Discussion Section",
+    "section": " The Gamma Distribution",
+    "text": "The Gamma Distribution\n\n\n\nviewof alph = Inputs.range(\n  [0.2, 10], \n  {value: 2, step: 0.1, label: \"α:\"}\n)\n\nviewof bet = Inputs.range(\n  [0.2, 3.1], \n  {value: 1, step: 0.01, label: \"β:\"}\n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\njstat = require(\"jstat\")\n\nplt_pdf = Plot.plot({\n    width: 700,\n    height: 300,\n    color: {\n      legend: true\n    },\n    x: {\n      label: \"x\",\n      axis: true\n    },\n    y: {\n      label: \"f(x)\",\n      //axis: false,\n      //domain: [0, d3.max(pdfvals.map(d =&gt; d.pdf))]  \n    },\n    marks: [\n      Plot.ruleY([0]),\n      Plot.ruleX([0]),\n      Plot.line(pdfvals, {x: \"x\", y: \"pdf\", stroke : \"blue\", strokeWidth: 4})\n    ]\n  })\n  \npdfvals = {\n  const x = d3.range(0, 12, 0.01);\n  var pdf;\n  pdf = x.map(x =&gt; ({x: x, pdf: jstat.gamma.pdf(x, alph, bet)}));\n  return pdf\n}"
   },
   {
-    "objectID": "Pages/Resources/notation.html",
-    "href": "Pages/Resources/notation.html",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "",
-    "text": "I am sympathetic to the fact that, at times, the notation used in statistics can seem a bit overwhelming. As such, I’ve crafted this page to outline a few key notations and symbols used in Statistics - I encourage you to refer to this page often! (Of course, please feel free to ask me directly in Lecture or Office Hours if I use notation that is unfamiliar to you.)"
+    "objectID": "Pages/Sp25/wk01.html#the-gamma-distribution-2",
+    "href": "Pages/Sp25/wk01.html#the-gamma-distribution-2",
+    "title": "Week 1 Discussion Section",
+    "section": " The Gamma Distribution",
+    "text": "The Gamma Distribution\nSpecial Cases\n\nIf \\(X \\sim \\mathrm{Gamma}(\\nu / 2, \\ 2)\\) for some \\(\\nu &gt; 0\\), we say X follows the chi-square distribution with \\(\\nu\\) degrees of freedom.\n\nFor example, the \\(\\mathrm{Gamma}(3, 2)\\) distribution is equivalent to the \\(\\chi^2_{6}\\) distribution.\n\nIf \\(X \\sim \\mathrm{Gamma}(1, \\beta)\\) for some \\(\\beta &gt; 0\\), then \\(X \\sim \\mathrm{Exp}(\\beta)\\).\n\n\n\n\nThe Gamma distribution also turns out to have some incredibly nice properties, making it a very important distribution to know.\n\nSaid differently, expect to see the Gamma distribution arise again in this course!"
   },
   {
-    "objectID": "Pages/Resources/notation.html#greek-alphabet",
-    "href": "Pages/Resources/notation.html#greek-alphabet",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Greek Alphabet",
-    "text": "Greek Alphabet\n\n\nTable 1: The Greek Alphabet\n\n\n\n\n(a) First Half\n\n\nUppercase\nLowercase\nName\n\n\n\n\nA\n\\(\\alpha\\)\nalpha\n\n\nB\n\\(\\beta\\)\nbeta\n\n\n\\(\\Gamma\\)\n\\(\\gamma\\)\ngamma\n\n\n\\(\\Delta\\)\n\\(\\delta\\)\ndelta\n\n\nE\n\\(\\varepsilon\\)\nepsilon\n\n\nZ\n\\(\\zeta\\)\nzeta\n\n\nH\n\\(\\eta\\)\nnu\n\n\n\\(\\Theta\\)\n\\(\\theta\\) / \\(\\vartheta\\)\ntheta\n\n\nI\n\\(\\iota\\)\niota\n\n\nK\n\\(\\kappa\\)\nkappa\n\n\n\\(\\Lambda\\)\n\\(\\lambda\\)\nlambda\n\n\nM\n\\(\\mu\\)\nmu\n\n\n\n\n\n\n(b) Second Half\n\n\nUppercase\nLowercase\nName\n\n\n\n\nN\n\\(\\nu\\)\nnu\n\n\n\\(\\Xi\\)\n\\(\\xi\\)\nxi\n\n\nO\n\\(\\omicron\\)\nomicron\n\n\n\\(\\Pi\\)\n\\(\\pi\\)\npi\n\n\nP\n\\(\\rho\\)\nrho\n\n\n\\(\\Sigma\\)\n\\(\\sigma\\) / \\(\\varsigma\\)\nsigma\n\n\nT\n\\(\\tau\\)\ntau\n\n\nY\n\\(\\upsilon\\)\nupsilon\n\n\n\\(\\Phi\\)\n\\(\\phi\\)\nphi\n\n\nX\n\\(\\chi\\)\nchi\n\n\n\\(\\Psi\\)\n\\(\\psi\\)\npsi\n\n\n\\(\\Omega\\)\n\\(\\omega\\)\nomega\n\n\n\n\n\n\n\nSome Common Statistical Uses\n\n\\(\\mu\\): often used to denote mean/expected value\n\\(\\sigma\\): often used to denote standard deviations\n\\(\\theta\\): often used as a placeholder for an arbitrary parameter\n\\(\\lambda, \\ \\rho\\): often used to denote rates\n\\(\\nu\\): often used to denote the degrees of freedom of a \\(\\chi^2\\) distribution\n\\(\\Gamma(t)\\): the Gamma function \\[ \\Gamma(r) := \\int_{0}^{\\infty} x^{r - 1} e^{-x} \\ \\mathrm{d}x \\]\n\\(\\psi(t)\\): the Digamma function: \\[ \\psi(t) := \\frac{\\mathrm{d}}{\\mathrm{d}t} \\ln[\\Gamma(t)] = \\frac{\\Gamma'(t)}{\\Gamma(t)} \\]\nSometimes, related parameters will be named after consecutive letters in the alphabet. For instance, we may denote the mean of a random variable \\(X\\) by \\(\\mu\\) and the mean of another random variable \\(Y\\) by \\(\\nu\\), and \\(\\mu\\) and \\(\\nu\\) appear consecutively in the Greek alphabet. Similarly for variances; \\(\\sigma^2\\) and \\(\\tau^2\\) are commonly used to denote variances."
+    "objectID": "Pages/Sp25/wk01.html#the-normal-distribution",
+    "href": "Pages/Sp25/wk01.html#the-normal-distribution",
+    "title": "Week 1 Discussion Section",
+    "section": " The Normal Distribution",
+    "text": "The Normal Distribution\n\n\n\n\n\n\nDefinition: Normal Distribution\n\n\nA random variable X is said to follow the normal distribution with parameters \\(\\mu\\) and \\(\\sigma^2\\), notated \\(X \\sim \\mathcal{N}(\\mu, \\sigma^2)\\), if X has density \\[ f_X(x) = \\frac{1}{\\sqrt{2 \\pi \\sigma^2}} \\exp\\left\\{ - \\frac{1}{2 \\sigma^2} (x - \\mu)^2 \\right\\} \\]\n\n\n\n\nThe standard normal distribution is a special case of the normal distribution where \\(\\mu = 0\\) and \\(\\sigma^2 = 1\\). Its PDF and CDF are denoted \\(\\phi(z)\\) and \\(\\Phi(z)\\), respectively: \\[ \\phi(z) = \\frac{1}{\\sqrt{2\\pi}} e^{-z^2 / 2} \\qquad \\Phi(z) := \\int_{-\\infty}^{z} \\frac{1}{\\sqrt{2\\pi}} e^{-t^2 / 2} \\ \\mathrm{d}t \\]"
   },
   {
-    "objectID": "Pages/Resources/notation.html#other-notations",
-    "href": "Pages/Resources/notation.html#other-notations",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Other Notations",
-    "text": "Other Notations\n\nIn this class, I will often write \\(X \\sim f_X\\) to mean “let \\(X\\) be a random variable with density function \\(f_X(x)\\)”, and \\(X \\sim F_X\\) to mean “let \\(X\\) be a random variable with distribution function \\(F_X(x)\\).”\nThe symbol \\(\\forall\\) is called the universal quantifier, and is essentially a mathematical way of writing “for all” or “for every”. As an example: \\[ (\\forall x \\in \\mathbb{R})[f_X(x) \\geq 0] \\] is read “for every real number \\(x\\), the value of \\(f_X(x)\\) will be nonnegative”.\nThe symbol \\(\\exists\\) is called the existential quantifier, and is essentially a mathematical way of writing “there exists” or “for at least one”. As an example: \\[ (\\exists x \\in \\mathbb{R})[x^2 = 2] \\] is read “there exists a real number \\(x\\) whose square is 2”.\nI often use the symbol \\(:=\\) to mean “definitionally equal to”. For example, given a random variable \\(Y\\), I’ll often write \\(U := Y^2\\) to mean “let \\(U\\) be another random variable that is, by definition, equal to the square of \\(Y\\).”\nI often use the symbol \\(\\stackrel{!}{=}\\) to mean “set equal to”. For example, solving \\(f'(x) \\stackrel{!}{=} 0\\) for \\(x\\) gives us the set of critical values for the function \\(f(\\cdot)\\)."
+    "objectID": "Pages/Sp25/wk01.html#the-normal-distribution-1",
+    "href": "Pages/Sp25/wk01.html#the-normal-distribution-1",
+    "title": "Week 1 Discussion Section",
+    "section": " The Normal Distribution",
+    "text": "The Normal Distribution\n\n\n\nviewof mu = Inputs.range(\n  [-3, 3], \n  {value: 0, step: 0.1, label: \"µ:\"}\n)\n\nviewof sig2 = Inputs.range(\n  [0.1, 8], \n  {value: 1, step: 0.01, label: \"σ²\"}\n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nplt_pdf2 = Plot.plot({\n    width: 700,\n    height: 300,\n    color: {\n      legend: true\n    },\n    x: {\n      label: \"x\",\n      axis: true\n    },\n    y: {\n      label: \"f(x)\",\n      //axis: false,\n      //domain: [0, d3.max(pdfvals.map(d =&gt; d.pdf))]  \n    },\n    marks: [\n      Plot.ruleY([0]),\n      Plot.ruleX([0]),\n      Plot.line(pdfvals2, {x: \"x\", y: \"pdf\", stroke : \"blue\", strokeWidth: 4})\n    ]\n  })\n  \npdfvals2 = {\n  const x = d3.range(-6, 6, 0.01);\n  var pdf;\n  pdf = x.map(x =&gt; ({x: x, pdf: jstat.normal.pdf(x, mu, Math.sqrt(sig2))}));\n  return pdf\n}"
   },
   {
-    "objectID": "Pages/policies.html",
-    "href": "Pages/policies.html",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "",
-    "text": "Welcome to PSTAT 120B! I am very excited to be your instructor this quarter. Our journey together will take us through the wonders of mathematical statistics, which seeks to form a logically and rigorously sound framework to discuss more advanced statistical topics. Looking forward to a great quarter with y’all! – Ethan"
+    "objectID": "Pages/Sp25/wk01.html#exercise-2",
+    "href": "Pages/Sp25/wk01.html#exercise-2",
+    "title": "Week 1 Discussion Section",
+    "section": " Exercise 2",
+    "text": "Exercise 2\nStandard Normal MGF\n\n\n\n\n\n\nExercise 1\n\n\nFind the MGF of the standard normal distribution."
   },
   {
-    "objectID": "Pages/policies.html#pdfgraphical-syllabus",
-    "href": "Pages/policies.html#pdfgraphical-syllabus",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "PDF/Graphical Syllabus",
-    "text": "PDF/Graphical Syllabus\nIf you prefer a PDF version of this syllabus (including a graphical overview of policies, etc.), please see the following document:\n\nDownload PDF file."
-  },
-  {
-    "objectID": "Pages/policies.html#course-description",
-    "href": "Pages/policies.html#course-description",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Course Description",
-    "text": "Course Description\nThe official description of this course, from the UCSB Course Catalog, is:\n\nDistribution of sample mean and sample variance; t, chi-squared and F distributions; summarizing data by statistics and graphs; estimation theory for single samples: sufficiency, efficiency, consistency, method of moments, maximum likelihood; hypothesis testing: likelihood ratio test; confidence intervals.\n\nThis quarter, we will also discuss conditional expectations, to set you up for success in your future PSTAT courses (like PSTAT 160A/B, 131/231, 174/274, etc.)"
-  },
-  {
-    "objectID": "Pages/policies.html#prerequisites",
-    "href": "Pages/policies.html#prerequisites",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Prerequisites",
-    "text": "Prerequisites\nThe only prerequisite for this course is a grade of C or higher in PSTAT 120A (Calculus-based probability). We will be using probability extensively this quarter, so please make sure to brush up on your probability knowledge before starting this course."
-  },
-  {
-    "objectID": "Pages/policies.html#textbook",
-    "href": "Pages/policies.html#textbook",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Textbook",
-    "text": "Textbook\nThere is only one required textbook for this course:\n\nMathematical Statistics with Applications, 7th edition, by Dennis Wackerly, William Mendenhall, Richard L. Scheaffer.\n\nWe will (roughly) cover chapters 6 - 10 and parts of Chapter 14. Readings will be assigned; I ask that you please complete the readings before lecture.\nPlease note: though the lecture notes I post to the course website are designed to be largely self-contained, studies have shown great benefit to seeing material presented in several different ways. This is why textbooks are very useful, and an integral part of the learning process!"
-  },
-  {
-    "objectID": "Pages/policies.html#course-components",
-    "href": "Pages/policies.html#course-components",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Course Components",
-    "text": "Course Components\n\nHomework: there will be one homework assignment due per week, on either Tuesday or Wednesday (please see the tentative schedule). These will be submitted on Gradescope.\nQuizzes: there will be 3 quizzes this quarter, administered once per non-exam week. Quizzes will be administered synchronously and in-person, at the start of Thursday Discussion Sections, and will last for 20 minutes.\nExams: there will be a total of three exams this quarter: two midterms, and one final exam. The dates and locations for the exams are:\n\n\n\n\n\n\n\nExam Dates\n\n\n\n\nMidterm 1: Wednesday, July 3, 2024 during Lecture, in the Lecture Hall\nMidterm 2: Wednesday, July 17, 2024 during Lecture, in the Lecture Hall\nFinal Exam: Friday, August 2, 2024; 4 - 7pm in ILP 2302 [please note that this is DIFFERENT than our usual classroom]"
-  },
-  {
-    "objectID": "Pages/policies.html#late-work-accommodations",
-    "href": "Pages/policies.html#late-work-accommodations",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Late Work / Accommodations",
-    "text": "Late Work / Accommodations\nUnfortunately, we cannot accept any late submissions for any assignments (homework, quizzes, exams). Instead:\n\nYour lowest two (2) HW scores and lowest quiz score will be dropped\nThe lower of your two midterm scores will be dropped or replaced with the average of your remaining midterm score and your final exam score; whichever gives you a higher overall final grade (though you must take all three exams; failure to do so will result in a grade of ‘F’)\n\nPlease also note that our Final Exam is scheduled to take place on the final Friday of the quarter. If this Final Exam time conflicts with another Final Exam you are taking, please reach out to me (Ethan) ASAP to coordinate."
-  },
-  {
-    "objectID": "Pages/policies.html#course-grades",
-    "href": "Pages/policies.html#course-grades",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Course Grades",
-    "text": "Course Grades\nYour final grade in the course will be computed according to the following scheme:\n\n\n\nHomework\nQuizzes\nMidterms\nFinal Exam\n\n\n\n\n20%\n15%\n15% each\n35%\n\n\n\nFurthermore, your final letter grade will be computed according the the following scheme:\n\nA– – A+: [90, 100]\nB– – B+: [80, 90)\nC– – C+: [70, 80)\nD– – D+: [60, 70)\nF: [0, 60)\n\nCutoffs between plusses and minuses will be determined at the end of the quarter.\nI have elected to adopt an uncurved grading scheme to eliminate any sense of “competition” among students; I highly encourage you all to collaborate with and uplift each other! Furthermore, I will certainly consider adjusting the cutoffs at the end of the quarter if necessary. (I will, however, not be able to tell if or how such adjustments will be made until the end of the quarter.) Please note: failure to take any of the three exams without first making prior arrangements with the Course Staff will result in an automatic grade of ‘F’."
-  },
-  {
-    "objectID": "Pages/policies.html#academic-integrity",
-    "href": "Pages/policies.html#academic-integrity",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Academic Integrity",
-    "text": "Academic Integrity\nAs a member of the UCSB community, it is expected that you will act with academic integrity. This means, among other things, that the work you submit should be entirely your own and not copied from any external sources. Collaboration on homework assignments is perfectly acceptable (even encouraged) but the work you submit should still be your own; you can’t have someone else write up solutions for you, nor can you consult sites like Chegg, CourseHero, ChatGPT, etc. Anyone found guilty of academic misconduct will be reported to the Academic Senate, and will receive at minimum a failing grade on the assignment in question; actions may also include failing the course, and marks being made on permanent records. Depending on the severity of the infraction, expulsion is also a possibility.\nBasically, don’t cheat- please! If you’re ever struggling with course material, please come talk to me or the TAs. We are truly here for you, and want only the best for you!"
-  },
-  {
-    "objectID": "Pages/policies.html#disabled-students-program-dsp",
-    "href": "Pages/policies.html#disabled-students-program-dsp",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Disabled Students Program (DSP)",
-    "text": "Disabled Students Program (DSP)\nIf you have a disability, or otherwise require accommodations for the exams and/or quizzes please reach out to the Disabled Students Program (DSP) ASAP to ensure your request(s) for accommodation can be processed. Please note that we cannot honor any requests for accommodations unless they come to us from DSP directly."
-  },
-  {
-    "objectID": "Pages/policies.html#sections",
-    "href": "Pages/policies.html#sections",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Sections",
-    "text": "Sections\nThough we will not be tracking Section attendance this quarter, I highly encourage you to attend Section. During Section, you will work through a series of problems that are designed to help you learn the course material."
-  },
-  {
-    "objectID": "Pages/policies.html#communication",
-    "href": "Pages/policies.html#communication",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Communication",
-    "text": "Communication\nPlease note that we (the course staff) request you refrain from emailing us except in case of extreme emergency (it is up to you to decide what is an ‘emergency’). Please bring all of your questions to the course staff during either Office Hours or after Lecture/Section. We also encourage you to make use of our Discord Server.\n\n\n\n\n\n\n\nTopic\nRedirect to…\n\n\n\n\nChecking answers\nOffice hours or Discord\n\n\nClarifying assignment content\nOffice hours or Discord\n\n\nAssignment submission\nGradescope\n\n\nRe-evaluation request\nGradescope\n\n\nQuestion about missing grades\nFill Out This Form"
-  },
-  {
-    "objectID": "Pages/policies.html#course-resourcessites",
-    "href": "Pages/policies.html#course-resourcessites",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Course Resources/Sites",
-    "text": "Course Resources/Sites\nThere are a couple of important sites you should be aware of for this course:\n\nMain Course Site: https://pstat120b.github.io This is the main site for this course this quarter - lecture, section, etc. material will be posted here. Please note that you do not need any special login to access this site - it is publicly accessible from anywhere that has internet access.\nGradescope: https://www.gradescope.com/courses/769316 Please use Gradescope for all assignment submissions. You will also take your quizzes through Gradescope.\nCanvas:  We will primarily be using Canvas for grading purposes, and announcements - course material will not, in general, be posted to Canvas."
-  },
-  {
-    "objectID": "Pages/policies.html#section-switching",
-    "href": "Pages/policies.html#section-switching",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Section Switching",
-    "text": "Section Switching\nIf you want to switch sections unofficially (we do not have the ability to switch your official enrollment through GOLD), please follow the steps at this link. Any requests to switch sections that do not adhere to the guidelines posted at that link will be ignored."
-  },
-  {
-    "objectID": "Pages/policies.html#modality",
-    "href": "Pages/policies.html#modality",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Modality",
-    "text": "Modality\nPlease note that this course is fully in-person and synchronous; there will not be any lecture recordings made or posted, nor will Sections be recorded or offered over Zoom. Please make every effort to attend lectures and Sections!"
-  },
-  {
-    "objectID": "Pages/policies.html#disclaimer",
-    "href": "Pages/policies.html#disclaimer",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Disclaimer",
-    "text": "Disclaimer\nThe instructor reserves the right to modify this syllabus if he deems such modifications academically advisable. Such modifications, should they occur, will be announced publicly."
-  },
-  {
-    "objectID": "Pages/policies.html#learning-outcomes",
-    "href": "Pages/policies.html#learning-outcomes",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Learning Outcomes",
-    "text": "Learning Outcomes\nMy main (and somewhat broad) goal for this course is:\n\nTo help introduce you to the theoretical underpinnings of mathematical statistics and the statistical way of thinking/writing\n\nTo this end, I have devised the following learning outcomes. By the end of this course, you should be able to:\n\nUnderstand key theorems and results (e.g. law of iterated expectations, central limit theorem, weak and strong laws of large numbers) and how they factor in to the broader statistical framework\nApply common estimation techniques to simulated and real data, and accurately interpret/assess the results (using concepts like bias, consistency, etc.)\nThink critically about the assumptions needed to implement various statistical procedures (and to question results when such assumptions are violated)\nAccurately express your beliefs and conclusions about problems and concepts in a mathematically and statistically rigorous manner"
-  },
-  {
-    "objectID": "Pages/policies.html#affirmations",
-    "href": "Pages/policies.html#affirmations",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Affirmations",
-    "text": "Affirmations\nI firmly believe that each and every one of you belongs here, at this university, in your major, and in this course. As such, I am committed to fostering a sense of inclusivity, tolerance, and respect; I ask that you please join me in this commitment. This includes things like: arriving to class and sections on time (or arriving/departing quietly if you need to arrive late/leave early), refraining from using derogatory or other hurtful language, and respecting your classmates’ lived names and pronouns.\nYou can update your preferred name and pronouns using UCSB’s Identity Services Directory Editor, and read more about how UCSB uses Lived and Legal Names at this link. I am committed to using everyone’s preferred names and pronouns, so please don’t hesitate to correct me if I accidentally misidentify you."
-  },
-  {
-    "objectID": "Pages/policies.html#some-general-tips-for-success",
-    "href": "Pages/policies.html#some-general-tips-for-success",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Some General Tips for Success",
-    "text": "Some General Tips for Success\nForm study groups\nStatistics is not meant to be a lonely field! There is much we can learn from one another, and it can be an incredibly enlightening experience to discuss problems and ideas with one another. (Just make sure you don’t violate any of the Academic Integrity points listed above)\nBe mindful of how you’re solving problems\nIt’s tempting to start a problem, get about halfway through, and then default to looking at the solutions or a similar worked-out example. This is not an effective way to learn! Rather, start by working through them fully and without looking at similar worked-out problems or solutions. Then you can compare your answers, and identify any areas for potential further study. Finally, return to the problem after a few days and see if you still get stuck in the same places as you did the first time.\nStart things early!\nMake sure you’re giving yourself enough time to complete the homework assignments, study for quizzes/exams, and process the course material. I’d recommend creating a weekly schedule for yourself, and allocating time each day for PSTAT 120B material (whether that be working through the homework, studying for a quiz, or just reading lecture slides/the textbook).\nAttend office hours (TA and Instructor) regularly\nEven if you don’t have a specific question, you’re always more than welcome to sit in on Office Hours and listen to other people’s questions. (Sometimes, doing so will help you formulate your own questions!)\nAttend lectures and Discussion Sections.\nIt’s true that we do not have an attendance policy, but please don’t let yourselves skimp on attendance. Studies show that regular exposure is the best way to learn material, and there really is no substitute for going to Section and Lecture. Also, while you’re in Lecture, take your own notes! Even the act of writing things down and having to synthesize what you think is important information can help you process and learn the material in real time.\nDon’t be too hard on yourself!\nThough a little stress can be a good motivating factor for some, please don’t stress yourself out too much. Your performance in this course is not an evaluation of who you are as a person!"
-  },
-  {
-    "objectID": "Pages/exams.html",
-    "href": "Pages/exams.html",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "",
-    "text": "Information Document (PLEASE READ): Link\nFinal Exam Coversheet: .PDF\nPractice Problems: Part 1 Part 2\n\nSolutions: Part 1 Part 2 (Please feel free to post on Discord if you believe there are typos)\n\nFinal Exam:  Green Version, Blank Green Version, Solutions\n\nPlease Note: It was clarified during the exam that problem 3(d) is asking for the maximum likelihood estimator, not the method of moments estimator."
-  },
-  {
-    "objectID": "Pages/exams.html#final-examination",
-    "href": "Pages/exams.html#final-examination",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "",
-    "text": "Information Document (PLEASE READ): Link\nFinal Exam Coversheet: .PDF\nPractice Problems: Part 1 Part 2\n\nSolutions: Part 1 Part 2 (Please feel free to post on Discord if you believe there are typos)\n\nFinal Exam:  Green Version, Blank Green Version, Solutions\n\nPlease Note: It was clarified during the exam that problem 3(d) is asking for the maximum likelihood estimator, not the method of moments estimator."
-  },
-  {
-    "objectID": "Pages/exams.html#midterm-2",
-    "href": "Pages/exams.html#midterm-2",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Midterm 2",
-    "text": "Midterm 2\n\nInformation Document (PLEASE READ): Link\nMidterm 2 Coversheet: .PDF\nPractice Problems: .PDF\n\nSolutions: Link\n\nMidterm 2: Version B, Blank Version B, Solutions"
-  },
-  {
-    "objectID": "Pages/exams.html#midterm-1",
-    "href": "Pages/exams.html#midterm-1",
-    "title": "PSTAT 120B: Mathematical Statistics, I",
-    "section": "Midterm 1",
-    "text": "Midterm 1\n\nInformation Document (PLEASE READ): Link\nMidterm 1 Coversheet: .PDF\nPractice Problems: .PDF\n\nSolutions: Link\n\nMidterm 1: Version A, Blank Version A, Solutions"
+    "objectID": "Pages/Sp25/wk01.html#a-note",
+    "href": "Pages/Sp25/wk01.html#a-note",
+    "title": "Week 1 Discussion Section",
+    "section": " A Note",
+    "text": "A Note\n\nI’d like to close off by imparting (what I find to be) a useful “trick” / observation to y’all.\n\n\n\n\n\n\n\n\nTip\n\n\nA distribution is uniquely determined by the variable part of its PDF.\n\n\n\n\n\nFor example, if I tell you X has density \\(f_X(x) = c \\cdot e^{-2x^2}\\), we can immediately say that \\(X \\sim \\mathcal{N}(0, 1/4)\\) distribution, because this is the only distribution whose PDF has variable portion \\(e^{-2x^2}\\).\n\nThis is a direct consequence of the fact that densities must integrate to unity!\n\nTry this on for size: if Y has PDF \\(f_Y(y) = c \\cdot y^3 e^{-y/2}\\) for y &gt; 0, what distribution does Y follow?"
   }
 ]
